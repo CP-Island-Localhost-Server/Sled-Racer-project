@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 71fb7077dabb4d2d8bb79f5ddf6c4703
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: StoreFrontBuyMembershipIcon
+  - first:
+      213: 21300002
+    second: StoreFrontBuyMembershipAnimationGloss
+  - first:
+      213: 21300004
+    second: StoreFrontBuyMembershipAnimationMask
+  - first:
+      213: 21300006
+    second: StoreItemOrBuyBG
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoreFrontBuyMembershipAnimationGloss
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 751
+        width: 140.9733
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5000949, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -64}
+        - {x: -70.5, y: -56}
+        - {x: 4.5, y: -64}
+      - - {x: -54.5, y: -15}
+        - {x: 4.5, y: -64}
+        - {x: -70.5, y: -56}
+      - - {x: -6.5, y: 64}
+        - {x: 4.5, y: -64}
+        - {x: -54.5, y: -15}
+      - - {x: 70.5, y: 64}
+        - {x: 4.5, y: -64}
+        - {x: -6.5, y: 64}
+      - - {x: 65.5, y: 49}
+        - {x: 4.5, y: -64}
+        - {x: 70.5, y: 64}
+      - - {x: 70.5, y: 62}
+        - {x: 65.5, y: 49}
+        - {x: 70.5, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoreFrontBuyMembershipAnimationMask
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 360
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -180, y: -31}
+        - {x: -180, y: 31}
+        - {x: -178, y: -34}
+      - - {x: -178, y: 34}
+        - {x: -178, y: -34}
+        - {x: -180, y: 31}
+      - - {x: 177, y: -34}
+        - {x: -178, y: -34}
+        - {x: -178, y: 34}
+      - - {x: 177, y: 34}
+        - {x: 177, y: -34}
+        - {x: -178, y: 34}
+      - - {x: 180, y: -30}
+        - {x: 177, y: -34}
+        - {x: 177, y: 34}
+      - - {x: 180, y: 30}
+        - {x: 180, y: -30}
+        - {x: 177, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoreItemOrBuyBG
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 595
+        width: 351
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -175.5, y: -62.5}
+        - {x: -175.5, y: 51.5}
+        - {x: -158.5, y: -86.5}
+      - - {x: -173.5, y: 61.5}
+        - {x: -158.5, y: -86.5}
+        - {x: -175.5, y: 51.5}
+      - - {x: -159.5, y: 86.5}
+        - {x: -158.5, y: -86.5}
+        - {x: -173.5, y: 61.5}
+      - - {x: -94.5, y: 86.5}
+        - {x: -158.5, y: -86.5}
+        - {x: -159.5, y: 86.5}
+      - - {x: -104.5, y: -86.5}
+        - {x: -158.5, y: -86.5}
+        - {x: -94.5, y: 86.5}
+      - - {x: -41.5, y: -80.5}
+        - {x: -104.5, y: -86.5}
+        - {x: -94.5, y: 86.5}
+      - - {x: -42.5, y: 80.5}
+        - {x: -41.5, y: -80.5}
+        - {x: -94.5, y: 86.5}
+      - - {x: 44.5, y: 80.5}
+        - {x: -41.5, y: -80.5}
+        - {x: -42.5, y: 80.5}
+      - - {x: 97.5, y: -84.5}
+        - {x: -41.5, y: -80.5}
+        - {x: 44.5, y: 80.5}
+      - - {x: 98.5, y: 86.5}
+        - {x: 97.5, y: -84.5}
+        - {x: 44.5, y: 80.5}
+      - - {x: 115.5, y: -86.5}
+        - {x: 97.5, y: -84.5}
+        - {x: 98.5, y: 86.5}
+      - - {x: 154.5, y: 86.5}
+        - {x: 115.5, y: -86.5}
+        - {x: 98.5, y: 86.5}
+      - - {x: 156.5, y: -86.5}
+        - {x: 115.5, y: -86.5}
+        - {x: 154.5, y: 86.5}
+      - - {x: 166.5, y: 79.5}
+        - {x: 156.5, y: -86.5}
+        - {x: 154.5, y: 86.5}
+      - - {x: 167.5, y: -77.5}
+        - {x: 156.5, y: -86.5}
+        - {x: 166.5, y: 79.5}
+      - - {x: 175.5, y: 49.5}
+        - {x: 167.5, y: -77.5}
+        - {x: 166.5, y: 79.5}
+      - - {x: 171.5, y: -60.5}
+        - {x: 167.5, y: -77.5}
+        - {x: 175.5, y: 49.5}
+      - - {x: 175.5, y: -45.5}
+        - {x: 171.5, y: -60.5}
+        - {x: 175.5, y: 49.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoreFrontBuyMembershipIcon
+      rect:
+        serializedVersion: 2
+        x: 891.0429
+        y: 595
+        width: 210.9303
+        height: 216
+      alignment: 9
+      pivot: {x: 0.4999617, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: -83}
+        - {x: -105.5, y: -15}
+        - {x: -98.5, y: -107}
+      - - {x: -96.5, y: 4}
+        - {x: -98.5, y: -107}
+        - {x: -105.5, y: -15}
+      - - {x: -86.5, y: -108}
+        - {x: -98.5, y: -107}
+        - {x: -96.5, y: 4}
+      - - {x: -91.5, y: 90}
+        - {x: -86.5, y: -108}
+        - {x: -96.5, y: 4}
+      - - {x: -56.5, y: 108}
+        - {x: -86.5, y: -108}
+        - {x: -91.5, y: 90}
+      - - {x: 43.5, y: -108}
+        - {x: -86.5, y: -108}
+        - {x: -56.5, y: 108}
+      - - {x: 80.5, y: 108}
+        - {x: 43.5, y: -108}
+        - {x: -56.5, y: 108}
+      - - {x: 98.5, y: -87}
+        - {x: 43.5, y: -108}
+        - {x: 80.5, y: 108}
+      - - {x: 87.5, y: 87}
+        - {x: 98.5, y: -87}
+        - {x: 80.5, y: 108}
+      - - {x: 105.5, y: -9}
+        - {x: 98.5, y: -87}
+        - {x: 87.5, y: 87}
+      - - {x: 105.5, y: -53}
+        - {x: 98.5, y: -87}
+        - {x: 105.5, y: -9}
+      - - {x: -105.5, y: 63}
+        - {x: -105.5, y: 72}
+        - {x: -96.5, y: 4}
+      - - {x: -91.5, y: 90}
+        - {x: -96.5, y: 4}
+        - {x: -105.5, y: 72}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StoreFrontBuyMembershipAnimationGloss: 21300002
+      StoreFrontBuyMembershipAnimationMask: 21300004
+      StoreFrontBuyMembershipIcon: 21300000
+      StoreItemOrBuyBG: 21300006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

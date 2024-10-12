@@ -1,0 +1,33 @@
+{
+"0" : "LoginContext.Error.Connection", 
+"1" : "LoginContext.Error.Password.Short",
+"2" : "LoginContext.Error.Password.Long",
+"3" : "LoginContext.Error.Username.Short",
+
+"4" : "LoginContext.Error.Password.Mismatch",
+"5" : "LoginContext.Error.Password.ContainsName",
+"6" : "LoginContext.Error.TermsOfUse.Unchecked",
+"7" : "LoginContext.Error.Rules.Unchecked",
+"8" : "LoginContext.Error.Privacy.Unchecked",
+"9" : "LoginContext.Error.Email.BadFormat",
+"10": "LoginContext.Error.Username.Spaces",
+
+"-32000" : "LoginContext.Error.Username.InvalidChars",
+"-32074" : "LoginContext.Error.Connection.AlreadyLoggedIn",
+"-32275" : "LoginContext.Error.Email.Banned",
+"-32283" : "LoginContext.Error.Username.InvalidChars",
+"-32284" : "LoginContext.Error.Username.Banned",
+"-32285" : "LoginContext.Error.Username.Banned",
+"-32295" : "LoginContext.Error.Email.InvalidChars",
+"-32291" : "LoginContext.Error.Password.ContainsName",
+"-32292" : "LoginContext.Error.Password.Easy",
+"-32296" : "LoginContext.Error.Email.BannedDomain",
+"-32297" : "LoginContext.Error.Account.TooManyPenguins",
+"-32299" : "LoginContext.Error.Email.BannedDomain",
+
+"401" : "LoginContext.Error.Password.Incorrect", 
+"403" : "LoginContext.Error.Account.Banned.Temporary",
+"404" : "LoginContext.Error.Connection",
+"409" : "LoginContext.Error.Username.Taken",
+"500" : "LoginContext.Error.Connection"
+}

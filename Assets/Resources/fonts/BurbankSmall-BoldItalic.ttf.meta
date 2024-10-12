@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 96082e7268784691958efad6765af84d
+timeCreated: 1689210850
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "BurbankSmall-BoldItalic"
+  fontNames:
+  - cpBurbankSmallBoldItal
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

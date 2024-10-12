@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/BootUpScene.unity
+    guid: a13b0c314825c164a81ae02338fe000f
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/SledEngine.unity
+    guid: 454580ec89cf3974eb5618b647a9c820
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/SledGame.unity
+    guid: 69f77ab286d705a44afc7731a6aeee3b
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/EndGameMenu.unity
+    guid: 7012daa483e7dc94a8741dea4feb3416
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/HUDMenu.unity
+    guid: 0a36c7b1045a96d4cae0a375c3b70942
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/MainMenu.unity
+    guid: a25d5bb4da4d6654283700853d475f93
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/PauseMenu.unity
+    guid: fbd9c7f78f3277e44995c1f1a863fa5e
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/SettingsMenu.unity
+    guid: d995ad4adc50f7a459afa918bfea5338
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/LeaderBoardMenu.unity
+    guid: eec08f225d447784d8fdbc0d60c7437f
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/BoostMenu.unity
+    guid: 1031716ed8fe4224fb4086c54e31390c
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/StoreMenu.unity
+    guid: 387aba0bd4e9d7440a0292db84c31d7d
+  - enabled: 1
+    path: Assets/SledRacer/Scenes/UI Scenes/AboutMembershipMenu.unity
+    guid: 119693bc123e50f4381538763a63073e
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
+      guid: 1706caab6dcc32a498e986c53622ebc3, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 59a6abecc03340149b791912529be3dd,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: d46d89f49cde879468e8ca7bfad5d2b0, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 42a1c89da1ca0334d9d3e51e16e63d6a, type: 2}

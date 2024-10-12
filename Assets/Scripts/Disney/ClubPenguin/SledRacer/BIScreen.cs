@@ -1,0 +1,22 @@
+namespace Disney.ClubPenguin.SledRacer
+{
+	public enum BIScreen
+	{
+		AUTO_DETECT_SCENE = -1,
+		MAIN_MENU,
+		SETTINGS,
+		GAME_HUD,
+		END_GAME,
+		LEADERBOARD,
+		BOOST_SELECT,
+		PAUSE,
+		LEGAL,
+		DISNEY_STORE,
+		LEAVING_APP,
+		UNKNOWN,
+		LOGIN,
+		STORE_FRONT,
+		PARENT_GATE,
+		AD
+	}
+}

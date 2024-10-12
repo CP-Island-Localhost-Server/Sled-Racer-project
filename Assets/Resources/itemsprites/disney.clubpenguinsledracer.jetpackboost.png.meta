@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 648589cfb56244f685ae1718f479232c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: disney.clubpenguinsledracer.jetpackboost
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: disney.clubpenguinsledracer.jetpackboost
+      rect:
+        serializedVersion: 2
+        x: 85.07612
+        y: 8.07612
+        width: 330.8478
+        height: 361.8478
+      alignment: 9
+      pivot: {x: 0.4984887, y: 0.5082907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -165, y: -50}
+      - {x: -165, y: 14}
+      - {x: -158, y: -72}
+    - - {x: -154, y: 48}
+      - {x: -158, y: -72}
+      - {x: -165, y: 14}
+    - - {x: -147, y: -91}
+      - {x: -158, y: -72}
+      - {x: -154, y: 48}
+    - - {x: -153, y: 98}
+      - {x: -147, y: -91}
+      - {x: -154, y: 48}
+    - - {x: -138, y: 124}
+      - {x: -147, y: -91}
+      - {x: -153, y: 98}
+    - - {x: -124, y: -113}
+      - {x: -147, y: -91}
+      - {x: -138, y: 124}
+    - - {x: -121, y: 128}
+      - {x: -124, y: -113}
+      - {x: -138, y: 124}
+    - - {x: -89, y: -128}
+      - {x: -124, y: -113}
+      - {x: -121, y: 128}
+    - - {x: -80, y: 105}
+      - {x: -89, y: -128}
+      - {x: -121, y: 128}
+    - - {x: -29, y: -134}
+      - {x: -89, y: -128}
+      - {x: -80, y: 105}
+    - - {x: -70, y: 132}
+      - {x: -29, y: -134}
+      - {x: -80, y: 105}
+    - - {x: -37, y: 173}
+      - {x: -29, y: -134}
+      - {x: -70, y: 132}
+    - - {x: -18, y: 178}
+      - {x: -29, y: -134}
+      - {x: -37, y: 173}
+    - - {x: -17, y: -171}
+      - {x: -29, y: -134}
+      - {x: -18, y: 178}
+    - - {x: 18, y: 178}
+      - {x: -17, y: -171}
+      - {x: -18, y: 178}
+    - - {x: -8, y: -176}
+      - {x: -17, y: -171}
+      - {x: 18, y: 178}
+    - - {x: 14, y: -184}
+      - {x: -8, y: -176}
+      - {x: 18, y: 178}
+    - - {x: 52, y: -184}
+      - {x: 14, y: -184}
+      - {x: 18, y: 178}
+    - - {x: 46, y: 166}
+      - {x: 52, y: -184}
+      - {x: 18, y: 178}
+    - - {x: 79, y: 141}
+      - {x: 52, y: -184}
+      - {x: 46, y: 166}
+    - - {x: 71, y: -173}
+      - {x: 52, y: -184}
+      - {x: 79, y: 141}
+    - - {x: 96, y: -160}
+      - {x: 71, y: -173}
+      - {x: 79, y: 141}
+    - - {x: 89, y: 152}
+      - {x: 96, y: -160}
+      - {x: 79, y: 141}
+    - - {x: 119, y: 145}
+      - {x: 96, y: -160}
+      - {x: 89, y: 152}
+    - - {x: 137, y: -156}
+      - {x: 96, y: -160}
+      - {x: 119, y: 145}
+    - - {x: 127, y: 133}
+      - {x: 137, y: -156}
+      - {x: 119, y: 145}
+    - - {x: 143, y: 106}
+      - {x: 137, y: -156}
+      - {x: 127, y: 133}
+    - - {x: 147, y: -147}
+      - {x: 137, y: -156}
+      - {x: 143, y: 106}
+    - - {x: 151, y: 82}
+      - {x: 147, y: -147}
+      - {x: 143, y: 106}
+    - - {x: 160, y: -126}
+      - {x: 147, y: -147}
+      - {x: 151, y: 82}
+    - - {x: 166, y: 23}
+      - {x: 160, y: -126}
+      - {x: 151, y: 82}
+    - - {x: 166, y: -78}
+      - {x: 160, y: -126}
+      - {x: 166, y: 23}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      disney.clubpenguinsledracer.jetpackboost: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

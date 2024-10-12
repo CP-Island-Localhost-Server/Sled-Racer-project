@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2f5f3a47cbc6449aa9b60e8b5d56fcc6
+timeCreated: 1689211279
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "Stopwatch-Regular"
+  fontNames:
+  - Stopwatch
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

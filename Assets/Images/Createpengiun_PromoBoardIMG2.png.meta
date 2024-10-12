@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 3fce792a990d49dfbae584bd2dfcb4d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Createpengiun_PromoBoardIMG2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 13
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Createpengiun_PromoBoardIMG2
+      rect:
+        serializedVersion: 2
+        x: 79.02675
+        y: 10.07612
+        width: 371.9465
+        height: 524.8972
+      alignment: 9
+      pivot: {x: 0.5013443, y: 0.4990004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -172.5, y: -138}
+      - {x: -132.5, y: -98}
+      - {x: -166.5, y: -151}
+    - - {x: -128.5, y: -155}
+      - {x: -166.5, y: -151}
+      - {x: -132.5, y: -98}
+    - - {x: -186.5, y: -238}
+      - {x: -186.5, y: -216}
+      - {x: -136.5, y: -260}
+    - - {x: -157.5, y: -192}
+      - {x: -136.5, y: -260}
+      - {x: -186.5, y: -216}
+    - - {x: -104.5, y: -160}
+      - {x: -136.5, y: -260}
+      - {x: -157.5, y: -192}
+    - - {x: -105.5, y: -262}
+      - {x: -136.5, y: -260}
+      - {x: -104.5, y: -160}
+    - - {x: -17.5, y: -262}
+      - {x: -105.5, y: -262}
+      - {x: -104.5, y: -160}
+    - - {x: -99.5, y: -116}
+      - {x: -17.5, y: -262}
+      - {x: -104.5, y: -160}
+    - - {x: -93.5, y: 108}
+      - {x: -17.5, y: -262}
+      - {x: -99.5, y: -116}
+    - - {x: -82.5, y: 142}
+      - {x: -17.5, y: -262}
+      - {x: -93.5, y: 108}
+    - - {x: -65.5, y: 166}
+      - {x: -17.5, y: -262}
+      - {x: -82.5, y: 142}
+    - - {x: -56.5, y: 169}
+      - {x: -17.5, y: -262}
+      - {x: -65.5, y: 166}
+    - - {x: -41.5, y: 170}
+      - {x: -17.5, y: -262}
+      - {x: -56.5, y: 169}
+    - - {x: -23.5, y: 170}
+      - {x: -17.5, y: -262}
+      - {x: -41.5, y: 170}
+    - - {x: -6.5, y: 166}
+      - {x: -17.5, y: -262}
+      - {x: -23.5, y: 170}
+    - - {x: 35.5, y: -254}
+      - {x: -17.5, y: -262}
+      - {x: -6.5, y: 166}
+    - - {x: 35.5, y: 34}
+      - {x: 35.5, y: -254}
+      - {x: -6.5, y: 166}
+    - - {x: 40.5, y: 249}
+      - {x: 35.5, y: 34}
+      - {x: -6.5, y: 166}
+    - - {x: 70.5, y: 108}
+      - {x: 35.5, y: 34}
+      - {x: 40.5, y: 249}
+    - - {x: 67.5, y: 263}
+      - {x: 70.5, y: 108}
+      - {x: 40.5, y: 249}
+    - - {x: 83.5, y: 263}
+      - {x: 70.5, y: 108}
+      - {x: 67.5, y: 263}
+    - - {x: 84.5, y: 105}
+      - {x: 70.5, y: 108}
+      - {x: 83.5, y: 263}
+    - - {x: 100.5, y: 260}
+      - {x: 84.5, y: 105}
+      - {x: 83.5, y: 263}
+    - - {x: 100.5, y: 117}
+      - {x: 84.5, y: 105}
+      - {x: 100.5, y: 260}
+    - - {x: 119.5, y: 171}
+      - {x: 100.5, y: 117}
+      - {x: 100.5, y: 260}
+    - - {x: 111.5, y: 240}
+      - {x: 119.5, y: 171}
+      - {x: 100.5, y: 260}
+    - - {x: -150.5, y: -48}
+      - {x: -149.5, y: 36}
+      - {x: -132.5, y: -98}
+    - - {x: -134.5, y: 70}
+      - {x: -132.5, y: -98}
+      - {x: -149.5, y: 36}
+    - - {x: -93.5, y: 108}
+      - {x: -132.5, y: -98}
+      - {x: -134.5, y: 70}
+    - - {x: -128.5, y: -155}
+      - {x: -132.5, y: -98}
+      - {x: -93.5, y: 108}
+    - - {x: -119.5, y: -149}
+      - {x: -128.5, y: -155}
+      - {x: -93.5, y: 108}
+    - - {x: -99.5, y: -116}
+      - {x: -119.5, y: -149}
+      - {x: -93.5, y: 108}
+    - - {x: -104.5, y: -160}
+      - {x: -110.5, y: -141}
+      - {x: -99.5, y: -116}
+    - - {x: 35.5, y: -254}
+      - {x: 35.5, y: 34}
+      - {x: 75.5, y: -262}
+    - - {x: 51.5, y: 8}
+      - {x: 75.5, y: -262}
+      - {x: 35.5, y: 34}
+    - - {x: 115.5, y: -35}
+      - {x: 75.5, y: -262}
+      - {x: 51.5, y: 8}
+    - - {x: 148.5, y: -262}
+      - {x: 75.5, y: -262}
+      - {x: 115.5, y: -35}
+    - - {x: 138.5, y: -109}
+      - {x: 148.5, y: -262}
+      - {x: 115.5, y: -35}
+    - - {x: 172.5, y: -174}
+      - {x: 148.5, y: -262}
+      - {x: 138.5, y: -109}
+    - - {x: 179.5, y: -258}
+      - {x: 148.5, y: -262}
+      - {x: 172.5, y: -174}
+    - - {x: 185.5, y: -214}
+      - {x: 179.5, y: -258}
+      - {x: 172.5, y: -174}
+    - - {x: 185.5, y: -245}
+      - {x: 179.5, y: -258}
+      - {x: 185.5, y: -214}
+    - - {x: 138.5, y: -109}
+      - {x: 115.5, y: -35}
+      - {x: 152.5, y: -72}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Createpengiun_PromoBoardIMG2: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

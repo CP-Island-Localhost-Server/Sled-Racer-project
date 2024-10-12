@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: f094e421c2e3405197455bc8b83b51ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: disney.clubpenguinsledracer.invincitube.2211063
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: disney.clubpenguinsledracer.invincitube.2211063
+      rect:
+        serializedVersion: 2
+        x: 26.07612
+        y: 32.07612
+        width: 445.8478
+        height: 320.8478
+      alignment: 9
+      pivot: {x: 0.5022429, y: 0.4984416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -224, y: -8}
+      - {x: -224, y: 44}
+      - {x: -219, y: -34}
+    - - {x: -218, y: 69}
+      - {x: -219, y: -34}
+      - {x: -224, y: 44}
+    - - {x: -214, y: -49}
+      - {x: -219, y: -34}
+      - {x: -218, y: 69}
+    - - {x: -208, y: 89}
+      - {x: -214, y: -49}
+      - {x: -218, y: 69}
+    - - {x: -205, y: -70}
+      - {x: -214, y: -49}
+      - {x: -208, y: 89}
+    - - {x: -203, y: 98}
+      - {x: -205, y: -70}
+      - {x: -208, y: 89}
+    - - {x: -189, y: -92}
+      - {x: -205, y: -70}
+      - {x: -203, y: 98}
+    - - {x: -186, y: 117}
+      - {x: -189, y: -92}
+      - {x: -203, y: 98}
+    - - {x: -175, y: -107}
+      - {x: -189, y: -92}
+      - {x: -186, y: 117}
+    - - {x: -173, y: 126}
+      - {x: -175, y: -107}
+      - {x: -186, y: 117}
+    - - {x: -159, y: -120}
+      - {x: -175, y: -107}
+      - {x: -173, y: 126}
+    - - {x: -144, y: 142}
+      - {x: -159, y: -120}
+      - {x: -173, y: 126}
+    - - {x: -148, y: -127}
+      - {x: -159, y: -120}
+      - {x: -144, y: 142}
+    - - {x: -111, y: -144}
+      - {x: -148, y: -127}
+      - {x: -144, y: 142}
+    - - {x: -125, y: 149}
+      - {x: -111, y: -144}
+      - {x: -144, y: 142}
+    - - {x: -106, y: 154}
+      - {x: -111, y: -144}
+      - {x: -125, y: 149}
+    - - {x: -76, y: -154}
+      - {x: -111, y: -144}
+      - {x: -106, y: 154}
+    - - {x: -96, y: 156}
+      - {x: -76, y: -154}
+      - {x: -106, y: 154}
+    - - {x: -57, y: 161}
+      - {x: -76, y: -154}
+      - {x: -96, y: 156}
+    - - {x: -46, y: -159}
+      - {x: -76, y: -154}
+      - {x: -57, y: 161}
+    - - {x: 11, y: 161}
+      - {x: -46, y: -159}
+      - {x: -57, y: 161}
+    - - {x: -32, y: -160}
+      - {x: -46, y: -159}
+      - {x: 11, y: 161}
+    - - {x: 32, y: -160}
+      - {x: -32, y: -160}
+      - {x: 11, y: 161}
+    - - {x: 33, y: 159}
+      - {x: 32, y: -160}
+      - {x: 11, y: 161}
+    - - {x: 52, y: -158}
+      - {x: 32, y: -160}
+      - {x: 33, y: 159}
+    - - {x: 51, y: 157}
+      - {x: 52, y: -158}
+      - {x: 33, y: 159}
+    - - {x: 80, y: 153}
+      - {x: 52, y: -158}
+      - {x: 51, y: 157}
+    - - {x: 76, y: -155}
+      - {x: 52, y: -158}
+      - {x: 80, y: 153}
+    - - {x: 105, y: -146}
+      - {x: 76, y: -155}
+      - {x: 80, y: 153}
+    - - {x: 115, y: 143}
+      - {x: 105, y: -146}
+      - {x: 80, y: 153}
+    - - {x: 121, y: -140}
+      - {x: 105, y: -146}
+      - {x: 115, y: 143}
+    - - {x: 137, y: 137}
+      - {x: 121, y: -140}
+      - {x: 115, y: 143}
+    - - {x: 149, y: -127}
+      - {x: 121, y: -140}
+      - {x: 137, y: 137}
+    - - {x: 174, y: 114}
+      - {x: 149, y: -127}
+      - {x: 137, y: 137}
+    - - {x: 173, y: -112}
+      - {x: 149, y: -127}
+      - {x: 174, y: 114}
+    - - {x: 192, y: -92}
+      - {x: 173, y: -112}
+      - {x: 174, y: 114}
+    - - {x: 198, y: 89}
+      - {x: 192, y: -92}
+      - {x: 174, y: 114}
+    - - {x: 206, y: -75}
+      - {x: 192, y: -92}
+      - {x: 198, y: 89}
+    - - {x: 214, y: 60}
+      - {x: 206, y: -75}
+      - {x: 198, y: 89}
+    - - {x: 215, y: -55}
+      - {x: 206, y: -75}
+      - {x: 214, y: 60}
+    - - {x: 219, y: 40}
+      - {x: 215, y: -55}
+      - {x: 214, y: 60}
+    - - {x: 219, y: -36}
+      - {x: 215, y: -55}
+      - {x: 219, y: 40}
+    - - {x: 222, y: -23}
+      - {x: 219, y: -36}
+      - {x: 219, y: 40}
+    - - {x: 222, y: 20}
+      - {x: 222, y: -23}
+      - {x: 219, y: 40}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      disney.clubpenguinsledracer.invincitube.2211063: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
