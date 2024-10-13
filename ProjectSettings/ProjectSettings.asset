@@ -144,7 +144,7 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 1.3.0
   preloadedAssets:
-  - {fileID: -4209186688166985453, guid: 59a6abecc03340149b791912529be3dd, type: 2}
+  - {fileID: 7697679944560245627, guid: 59a6abecc03340149b791912529be3dd, type: 2}
   - {fileID: 11400000, guid: 1706caab6dcc32a498e986c53622ebc3, type: 2}
   - {fileID: 11400000, guid: d46d89f49cde879468e8ca7bfad5d2b0, type: 2}
   metroInputSource: 0
@@ -167,7 +167,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: net.newcp.sledracer
+    Android: com.DisneyInteractive.sledracer
     iPhone: com.DisneyInteractive.SledRacer
   buildNumber:
     Bratwurst: 0
@@ -176,9 +176,9 @@ PlayerSettings:
     iPhone: 1.3.0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 31
-  AndroidTargetSdkVersion: 31
+  AndroidBundleVersionCode: 130
+  AndroidMinSdkVersion: 22
+  AndroidTargetSdkVersion: 35
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
