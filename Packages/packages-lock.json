@@ -15,11 +15,11 @@
       "hash": "7dbce4b94bd7f92c33de382439f662a0731a1db9"
     },
     "com.unity.2d.animation": {
-      "version": "9.1.2",
+      "version": "9.1.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.2d.common": "8.0.3",
+        "com.unity.2d.common": "8.0.4",
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.collections": "1.1.0",
         "com.unity.modules.animation": "1.0.0",
@@ -40,7 +40,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.common": {
-      "version": "8.0.3",
+      "version": "8.0.4",
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -77,11 +77,11 @@
       "dependencies": {}
     },
     "com.unity.2d.spriteshape": {
-      "version": "9.0.4",
+      "version": "9.0.5",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.2d.common": "8.0.3",
+        "com.unity.2d.common": "8.0.4",
         "com.unity.mathematics": "1.1.0",
         "com.unity.modules.physics2d": "1.0.0"
       },
@@ -97,7 +97,7 @@
       }
     },
     "com.unity.2d.tilemap.extras": {
-      "version": "3.1.2",
+      "version": "3.1.3",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -174,15 +174,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.collections": {
-      "version": "2.1.1",
+      "version": "1.2.4",
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.burst": "1.8.4",
-        "com.unity.test-framework": "1.3.3",
-        "com.unity.nuget.mono-cecil": "1.11.4",
-        "com.unity.modules.unityanalytics": "1.0.0",
-        "com.unity.test-framework.performance": "3.0.0-pre.1"
+        "com.unity.burst": "1.6.6",
+        "com.unity.test-framework": "1.1.31"
       },
       "url": "https://packages.unity.com"
     },
@@ -194,8 +191,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
-      "version": "2.0.3",
-      "depth": 3,
+      "version": "1.0.6",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -205,13 +202,13 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
-        "com.unity.2d.animation": "9.1.2",
+        "com.unity.2d.animation": "9.1.3",
         "com.unity.2d.pixel-perfect": "5.0.3",
         "com.unity.2d.psdimporter": "8.0.5",
         "com.unity.2d.sprite": "1.0.0",
-        "com.unity.2d.spriteshape": "9.0.4",
+        "com.unity.2d.spriteshape": "9.0.5",
         "com.unity.2d.tilemap": "1.0.0",
-        "com.unity.2d.tilemap.extras": "3.1.2",
+        "com.unity.2d.tilemap.extras": "3.1.3",
         "com.unity.2d.aseprite": "1.1.6"
       }
     },
@@ -252,28 +249,22 @@
     },
     "com.unity.mathematics": {
       "version": "1.2.6",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.memoryprofiler": {
-      "version": "1.1.2",
+      "version": "1.1.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.0",
-        "com.unity.collections": "2.1.1",
+        "com.unity.collections": "1.2.3",
+        "com.unity.mathematics": "1.2.1",
         "com.unity.profiling.core": "1.0.0",
         "com.unity.editorcoroutines": "1.0.0"
       },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.mono-cecil": {
-      "version": "1.11.4",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.nuget.newtonsoft-json": {
@@ -392,22 +383,12 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.3.3",
-      "depth": 2,
+      "version": "1.1.33",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.ext.nunit": "2.0.3",
+        "com.unity.ext.nunit": "1.0.6",
         "com.unity.modules.imgui": "1.0.0",
-        "com.unity.modules.jsonserialize": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.test-framework.performance": {
-      "version": "3.0.0-pre.1",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.test-framework": "1.1.31",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
