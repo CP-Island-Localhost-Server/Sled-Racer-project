@@ -2,1331 +2,976 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
 AnimationClip:
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: "out"
-  serializedVersion: 6
-  m_Legacy: 0
+  m_Name: out
+  m_AnimationType: 2
   m_Compressed: 0
   m_UseHighQualityCurve: 1
   m_RotationCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: -1.497807E-06, w: 1}
-        inSlope: {x: 0, y: 0, z: -23.99999, w: -24.00002}
-        outSlope: {x: 0, y: 0, z: -23.99999, w: -24.00002}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0, y: 0, z: -1, w: 6.123234E-17}
-        inSlope: {x: 0, y: 0, z: -3.433228E-05, w: -23.99999}
-        outSlope: {x: 0, y: 0, z: -3.433228E-05, w: -23.99999}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0, y: 0, z: -1.4978E-06, w: -1}
-        inSlope: {x: 0, y: 0, z: 11.99998, w: -11.99998}
-        outSlope: {x: 0, y: 0, z: 11.99998, w: -11.99998}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0, y: 0, z: 0, w: -1}
-        inSlope: {x: 0, y: 0, z: 1.797361E-05, w: 0}
+      - time: 0
+        value: {x: 0, y: -0, z: -1.4978068E-06, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: -23.999987, w: -24.000023}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: -0, y: -0, z: -1, w: 6.123234E-17}
+        inSlope: {x: 0, y: 0, z: -3.2424894E-05, w: -23.999989}
+        outSlope: {x: 0, y: 0, z: -3.4332275E-05, w: -23.999989}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: -0, y: -0, z: -1.4977995E-06, w: -1}
+        inSlope: {x: 0, y: 0, z: 11.999976, w: -11.999976}
+        outSlope: {x: 0, y: 0, z: 11.999977, w: -11.999977}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: -0, y: 0, z: 0, w: -1}
+        inSlope: {x: 0, y: 0, z: 1.7802045E-05, w: 1.0913936E-11}
         outSlope: {x: 0, y: 0, z: 1.797361E-05, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0, w: -1}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: 0, z: 0, w: -1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: -1, w: 7.989483E-07}
-        inSlope: {x: 0, y: 0, z: 7.029443, w: 16.97056}
-        outSlope: {x: 0, y: 0, z: 7.029443, w: 16.97056}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-        inSlope: {x: 0, y: 0, z: 12, w: 11.99999}
-        outSlope: {x: 0, y: 0, z: 12, w: 11.99999}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0, y: 0, z: 7.488998E-07, w: 1}
-        inSlope: {x: 0, y: 0, z: 8.485267, w: 3.514711}
-        outSlope: {x: 0, y: 0, z: 8.485267, w: 3.514711}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0, y: 0, z: 0, w: 1}
-        inSlope: {x: 0, y: 0, z: -8.986805E-06, w: 0}
+      - time: 0
+        value: {x: -0, y: -0, z: -1, w: 7.9894835E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 7.029443, w: 16.970562}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+        inSlope: {x: 0, y: 0, z: 11.999998, w: 11.9999895}
+        outSlope: {x: 0, y: 0, z: 11.999996, w: 11.999992}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 0, y: 0, z: 7.4889977E-07, w: 1}
+        inSlope: {x: 0, y: 0, z: 8.485279, w: 3.5147114}
+        outSlope: {x: 0, y: 0, z: 8.485267, w: 3.5147114}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: -9.508746E-06, w: -3.4596704E-07}
         outSlope: {x: 0, y: 0, z: -8.986805E-06, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0, w: 1}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: -0, z: -0, w: 1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: -4.992684E-07, w: 1}
-        inSlope: {x: 0, y: 0, z: -12, w: -3.215394}
-        outSlope: {x: 0, y: 0, z: -12, w: -3.215394}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0, y: 0, z: -0.5, w: 0.8660254}
-        inSlope: {x: 0, y: 0, z: -10.3923, w: -6.000002}
-        outSlope: {x: 0, y: 0, z: -10.3923, w: -6.000002}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0, y: 0, z: -0.8660259, w: 0.4999993}
-        inSlope: {x: 0, y: 0, z: -5.999993, w: -10.39231}
-        outSlope: {x: 0, y: 0, z: -5.999993, w: -10.39231}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0, y: 0, z: -1, w: -3.994742E-07}
-        inSlope: {x: 0, y: 0, z: 5.722046E-06, w: -12}
-        outSlope: {x: 0, y: 0, z: 5.722046E-06, w: -12}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0, y: 0, z: -0.8660254, w: -0.5}
-        inSlope: {x: 0, y: 0, z: 6.000001, w: -10.3923}
-        outSlope: {x: 0, y: 0, z: 6.000001, w: -10.3923}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0, y: 0, z: -0.4999993, w: -0.8660258}
-        inSlope: {x: 0, y: 0, z: 10.3923, w: -5.999993}
-        outSlope: {x: 0, y: 0, z: 10.3923, w: -5.999993}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: -1.224647E-16, w: -1}
+      - time: 0
+        value: {x: 0, y: -0, z: -4.992684E-07, w: 1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: -11.999999, w: -3.2153938}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 0, y: -0, z: -0.5, w: 0.8660254}
+        inSlope: {x: 0, y: 0, z: -10.392299, w: -6.0000033}
+        outSlope: {x: 0, y: 0, z: -10.392302, w: -6.0000024}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: -0, y: -0, z: -0.86602587, w: 0.49999925}
+        inSlope: {x: 0, y: 0, z: -5.9999886, w: -10.392301}
+        outSlope: {x: 0, y: 0, z: -5.9999933, w: -10.392307}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: -0, y: -0, z: -1, w: -3.9947417E-07}
+        inSlope: {x: 0, y: 0, z: 5.7611414E-06, w: -12.000006}
+        outSlope: {x: 0, y: 0, z: 5.722046E-06, w: -12.000002}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: -0, y: -0, z: -0.8660254, w: -0.5}
+        inSlope: {x: 0, y: 0, z: 6.0000014, w: -10.392299}
+        outSlope: {x: 0, y: 0, z: 6.0000014, w: -10.392302}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: -0, y: -0, z: -0.4999993, w: -0.8660258}
+        inSlope: {x: 0, y: 0, z: 10.3923025, w: -5.999993}
+        outSlope: {x: 0, y: 0, z: 10.392302, w: -5.999993}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: -0, z: -1.2246469E-16, w: -1}
+        inSlope: {x: 0, y: 0, z: 11.999999, w: -3.2153838}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 0, y: 0, z: 0.8291556, w: 0.559056}
-        inSlope: {x: 0, y: 0, z: 0.06973193, w: -0.1020778}
-        outSlope: {x: 0, y: 0, z: 0.06973193, w: -0.1020778}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0.06973193, w: -0.10207784}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: -1.597897E-06, w: -1}
-        inSlope: {x: 0, y: 0, z: -10.1228, w: 11.85227}
-        outSlope: {x: 0, y: 0, z: -10.1228, w: 11.85227}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0, y: 0, z: -1, w: 6.123234E-17}
-        inSlope: {x: 0, y: 0, z: -1.525879E-05, w: 23.99999}
-        outSlope: {x: 0, y: 0, z: -1.525879E-05, w: 23.99999}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0, y: 0, z: 0, w: 1}
-        inSlope: {x: 0, y: 0, z: 11.99998, w: 11.99998}
-        outSlope: {x: 0, y: 0, z: 11.99998, w: 11.99998}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0, y: 0, z: 0, w: 1}
+      - time: 0
+        value: {x: -0, y: -0, z: -1.5978967E-06, w: -1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: -10.122799, w: 11.852272}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: -0, y: -0, z: -1, w: 6.123234E-17}
+        inSlope: {x: 0, y: 0, z: -1.24815015E-05, w: 23.999985}
+        outSlope: {x: 0, y: 0, z: -1.5258789E-05, w: 23.999989}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 11.999985, w: 11.999976}
+        outSlope: {x: 0, y: 0, z: 11.999977, w: 11.999977}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: -1.0913936E-11, w: -1.0913936E-11}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: -0, z: -0, w: 1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0, w: 1}
-        inSlope: {x: 0, y: 0, z: 0, w: 0}
-        outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO/invincible:Shard_Ctrl_A
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: -1, w: 7.989483E-07}
-        inSlope: {x: 0, y: 0, z: 3.47773, w: 7.543782}
-        outSlope: {x: 0, y: 0, z: 3.47773, w: 7.543782}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
-        inSlope: {x: 0, y: 0, z: 11.99999, w: 11.99999}
-        outSlope: {x: 0, y: 0, z: 11.99999, w: 11.99999}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0, y: 0, z: 0, w: 1}
-        inSlope: {x: 0, y: 0, z: 8.485266, w: 3.514711}
-        outSlope: {x: 0, y: 0, z: 8.485266, w: 3.514711}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0, y: 0, z: 0, w: 1}
+      - time: 0
+        value: {x: -0, y: -0, z: -1, w: 7.9894835E-07}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 3.4777298, w: 7.543782}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 0, y: -0, z: -0.7071068, w: 0.7071068}
+        inSlope: {x: 0, y: 0, z: 11.999989, w: 11.999996}
+        outSlope: {x: 0, y: 0, z: 11.999987, w: 11.999992}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 8.485257, w: 3.5147114}
+        outSlope: {x: 0, y: 0, z: 8.485266, w: 3.5147114}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: -2.8982674E-07, w: -3.4596704E-07}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: -0, z: -0, w: 1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0, w: 1}
-        inSlope: {x: 0, y: 0, z: 0, w: 0}
-        outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO/invincible:Shard_Ctrl_C
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: 5.326322E-07, w: -1}
-        inSlope: {x: 0, y: 0, z: 4.122793, w: 1.459958}
-        outSlope: {x: 0, y: 0, z: 4.122793, w: 1.459958}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0, y: 0, z: 0.5, w: -0.8660254}
-        inSlope: {x: 0, y: 0, z: 10.3923, w: 6.000003}
-        outSlope: {x: 0, y: 0, z: 10.3923, w: 6.000003}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0, y: 0, z: 0.8660259, w: -0.4999992}
-        inSlope: {x: 0, y: 0, z: 5.999993, w: 10.39231}
-        outSlope: {x: 0, y: 0, z: 5.999993, w: 10.39231}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0, y: 0, z: 1, w: 5.326322E-07}
-        inSlope: {x: 0, y: 0, z: -5.722046E-06, w: 12}
-        outSlope: {x: 0, y: 0, z: -5.722046E-06, w: 12}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0, y: 0, z: 0.8660254, w: 0.5}
-        inSlope: {x: 0, y: 0, z: -6.000004, w: 10.3923}
-        outSlope: {x: 0, y: 0, z: -6.000004, w: 10.3923}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0, y: 0, z: 0.4999991, w: 0.8660259}
-        inSlope: {x: 0, y: 0, z: -10.3923, w: 5.999993}
-        outSlope: {x: 0, y: 0, z: -10.3923, w: 5.999993}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0, w: 1}
+      - time: 0
+        value: {x: -0, y: 0, z: 5.326322E-07, w: -1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 4.122793, w: 1.4599578}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: -0, y: 0, z: 0.5, w: -0.8660254}
+        inSlope: {x: 0, y: 0, z: 10.3923025, w: 6.000003}
+        outSlope: {x: 0, y: 0, z: 10.392302, w: 6.000003}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 0, y: 0, z: 0.86602587, w: -0.4999992}
+        inSlope: {x: 0, y: 0, z: 5.9999886, w: 10.392309}
+        outSlope: {x: 0, y: 0, z: 5.9999933, w: 10.392308}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0, y: 0, z: 1, w: 5.326322E-07}
+        inSlope: {x: 0, y: 0, z: -5.7611414E-06, w: 12.000002}
+        outSlope: {x: 0, y: 0, z: -5.722046E-06, w: 12.000002}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 0, y: 0, z: 0.8660254, w: 0.5}
+        inSlope: {x: 0, y: 0, z: -6.000003, w: 10.392297}
+        outSlope: {x: 0, y: 0, z: -6.000004, w: 10.392302}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0, y: 0, z: 0.49999914, w: 0.8660259}
+        inSlope: {x: 0, y: 0, z: -10.392305, w: 5.999993}
+        outSlope: {x: 0, y: 0, z: -10.392302, w: 5.999993}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: -11.999992, w: 3.2153811}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO/invincible:Shard_Ctrl_B
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+      - time: 0
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+      - time: 0
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+      - time: 0
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+      - time: 0
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0.830153, w: 0.5575356}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: 0, z: 0.83015305, w: 0.5575356}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
   m_CompressedRotationCurves: []
-  m_EulerCurves:
   m_PositionCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: -7.105427E-15, y: 0, z: 0}
-        inSlope: {x: 1.705345E-13, y: -2.316637E-19, z: 0}
-        outSlope: {x: 1.705345E-13, y: -2.316637E-19, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 7.105427E-15, y: 0, z: 0}
-        inSlope: {x: -3.410684E-13, y: 7.746615E-08, z: 0}
-        outSlope: {x: -3.410684E-13, y: 7.746615E-08, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: {x: -2.842171E-14, y: 0, z: 0}
-        inSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
-        outSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: -0.001953125, z: 0}
+      - time: 0
+        value: {x: -7.1054274E-15, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.7053453E-13, y: -2.3166374E-19, z: 0}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 7.1054274E-15, y: 0, z: 0}
+        inSlope: {x: -3.4105688E-13, y: 4.2634434E-14, z: 0}
+        outSlope: {x: -3.4106837E-13, y: 7.7466154E-08, z: 0}
+        tangentMode: 1
+      - time: 0.20833325
+        value: {x: -2.842171E-14, y: 0, z: 0}
+        inSlope: {x: -8.526359E-14, y: -0.023437487, z: 0}
+        outSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: -0.001953125, z: 0}
+        inSlope: {x: 6.821218E-13, y: -0.04687505, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: -7.105427E-15, y: 0, z: 0}
-        inSlope: {x: 1.705345E-13, y: -2.316637E-19, z: 0}
-        outSlope: {x: 1.705345E-13, y: -2.316637E-19, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 7.105427E-15, y: 0, z: 0}
-        inSlope: {x: -3.410684E-13, y: 7.746615E-08, z: 0}
-        outSlope: {x: -3.410684E-13, y: 7.746615E-08, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: {x: -2.842171E-14, y: 0, z: 0}
-        inSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
-        outSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: -0.001953125, z: 0}
+      - time: 0
+        value: {x: -7.1054274E-15, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.7053453E-13, y: -2.3166374E-19, z: 0}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 7.1054274E-15, y: 0, z: 0}
+        inSlope: {x: -3.4105688E-13, y: 4.2634434E-14, z: 0}
+        outSlope: {x: -3.4106837E-13, y: 7.7466154E-08, z: 0}
+        tangentMode: 1
+      - time: 0.20833325
+        value: {x: -2.842171E-14, y: 0, z: 0}
+        inSlope: {x: -8.526359E-14, y: -0.023437487, z: 0}
+        outSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: -0.001953125, z: 0}
+        inSlope: {x: 6.821218E-13, y: -0.04687505, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: -7.105427E-15, y: 0, z: 0}
-        inSlope: {x: 1.705345E-13, y: -2.316637E-19, z: 0}
-        outSlope: {x: 1.705345E-13, y: -2.316637E-19, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 7.105427E-15, y: 0, z: 0}
-        inSlope: {x: -3.410684E-13, y: 7.746615E-08, z: 0}
-        outSlope: {x: -3.410684E-13, y: 7.746615E-08, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: {x: -2.842171E-14, y: 0, z: 0}
-        inSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
-        outSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: -0.001953125, z: 0}
+      - time: 0
+        value: {x: -7.1054274E-15, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.7053453E-13, y: -2.3166374E-19, z: 0}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 7.1054274E-15, y: 0, z: 0}
+        inSlope: {x: -3.4105688E-13, y: 4.2634434E-14, z: 0}
+        outSlope: {x: -3.4106837E-13, y: 7.7466154E-08, z: 0}
+        tangentMode: 1
+      - time: 0.20833325
+        value: {x: -2.842171E-14, y: 0, z: 0}
+        inSlope: {x: -8.526359E-14, y: -0.023437487, z: 0}
+        outSlope: {x: -8.52633E-14, y: -0.02343756, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: -0.001953125, z: 0}
+        inSlope: {x: 6.821218E-13, y: -0.04687505, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 38.49387, z: 0}
-        inSlope: {x: 0, y: 6.597904E-13, z: 0}
-        outSlope: {x: 0, y: 6.597904E-13, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 38.49387, z: 0}
+      - time: 0
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 6.5979036E-13, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: 38.493874, z: 0}
+        inSlope: {x: 0, y: 8.6280267E-13, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 38.49387, z: 0}
+      - time: 0
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 38.49387, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 38.49387, z: 0}
+      - time: 0
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 38.49387, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 38.49387, z: 0}
+      - time: 0
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 38.49387, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 0, y: 38.49387, z: 0}
+      - time: 0
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 38.49387, z: 0}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: -0, y: 38.493874, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 0.9953191, y: 0.9953191, z: 0.5220263}
-        inSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        outSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 1.083284, y: 1.083284, z: 0.4179148}
-        inSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        outSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 1.143217, y: 1.143217, z: 0.2703007}
-        inSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        outSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0.9645889, y: 0.9645889, z: 0.1791262}
-        inSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        outSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
-        inSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        outSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0.1786276, y: 0.1786276, z: 0.02592116}
-        inSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        outSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 1E-12, y: 1E-12, z: 1E-12}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.1111622, y: 2.1111622, z: -2.4986782}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 1.0832841, y: 1.0832841, z: 0.4179148}
+        inSlope: {x: 1.7747797, y: 1.7747797, z: -3.0207057}
+        outSlope: {x: 1.7747793, y: 1.7747793, z: -3.0207057}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 1.1432174, y: 1.1432174, z: 0.27030066}
+        inSlope: {x: -1.4243464, y: -1.4243464, z: -2.8654606}
+        outSlope: {x: -1.4243467, y: -1.4243467, z: -2.8654613}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0.9645889, y: 0.9645889, z: 0.17912616}
+        inSlope: {x: -6.8593116, y: -6.8593116, z: -2.143832}
+        outSlope: {x: -6.859311, y: -6.859311, z: -2.1438313}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
+        inSlope: {x: -9.431527, y: -9.431527, z: -1.8384604}
+        outSlope: {x: -9.43153, y: -9.43153, z: -1.8384595}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0.17862764, y: 0.17862764, z: 0.025921162}
+        inSlope: {x: -6.8592997, y: -6.8592997, z: -1.0997778}
+        outSlope: {x: -6.8592978, y: -6.8592978, z: -1.0997776}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 1E-12, y: 1E-12, z: 1E-12}
+        inSlope: {x: -4.2870693, y: -4.2870693, z: -0.6221082}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 1.128006, y: 1.128006, z: 1.128006}
-        inSlope: {x: -5.312643, y: -5.312643, z: -5.312643}
+      - time: 0
+        value: {x: 1.1280061, y: 1.1280061, z: 1.1280061}
+        inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: -5.312643, y: -5.312643, z: -5.312643}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
+        tangentMode: 1
+      - time: 0.041666627
         value: {x: 0.9066462, y: 0.9066462, z: 0.9066462}
-        inSlope: {x: -4.369864, y: -4.369864, z: -4.369864}
-        outSlope: {x: -4.369864, y: -4.369864, z: -4.369864}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0.7638507, y: 0.7638507, z: 0.7638507}
-        inSlope: {x: -1.270759, y: -1.270759, z: -1.270759}
-        outSlope: {x: -1.270759, y: -1.270759, z: -1.270759}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
+        inSlope: {x: -4.3698635, y: -4.3698635, z: -4.3698635}
+        outSlope: {x: -4.3698635, y: -4.3698635, z: -4.3698635}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 0.76385075, y: 0.76385075, z: 0.76385075}
+        inSlope: {x: -1.2707593, y: -1.2707593, z: -1.2707593}
+        outSlope: {x: -1.2707591, y: -1.2707591, z: -1.2707591}
+        tangentMode: 1
+      - time: 0.125
         value: {x: 0.8007493, y: 0.8007493, z: 0.8007493}
-        inSlope: {x: 1.416898, y: 1.416898, z: 1.416898}
+        inSlope: {x: 1.4168978, y: 1.4168978, z: 1.4168978}
         outSlope: {x: 1.416898, y: 1.416898, z: 1.416898}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
+        tangentMode: 1
+      - time: 0.20833337
         value: {x: 0.9631018, y: 0.9631018, z: 0.9631018}
         inSlope: {x: 1.416893, y: 1.416893, z: 1.416893}
         outSlope: {x: 1.416893, y: 1.416893, z: 1.416893}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
+        tangentMode: 1
+      - time: 0.25
         value: {x: 1, y: 1, z: 1}
-        inSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.8855573, y: 0.8855573, z: 0.8855573}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA/invincible:Shard_Jnt_AB
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 1.044161, y: 1.044161, z: 1.044161}
-        inSlope: {x: -3.626314, y: -3.626314, z: -3.626314}
-        outSlope: {x: -3.626314, y: -3.626314, z: -3.626314}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
+      - time: 0
+        value: {x: 1.0441606, y: 1.0441606, z: 1.0441606}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -3.6263144, y: -3.6263144, z: -3.6263144}
+        tangentMode: 1
+      - time: 0.041666627
         value: {x: 0.8930643, y: 0.8930643, z: 0.8930643}
         inSlope: {x: -3.107745, y: -3.107745, z: -3.107745}
-        outSlope: {x: -3.107745, y: -3.107745, z: -3.107745}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
+        outSlope: {x: -3.1077447, y: -3.1077447, z: -3.1077447}
+        tangentMode: 1
+      - time: 0.08333337
         value: {x: 0.7851818, y: 0.7851818, z: 0.7851818}
-        inSlope: {x: -0.8918023, y: -0.8918023, z: -0.8918023}
+        inSlope: {x: -0.8918025, y: -0.8918025, z: -0.8918025}
         outSlope: {x: -0.8918023, y: -0.8918023, z: -0.8918023}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
+        tangentMode: 1
+      - time: 0.125
         value: {x: 0.8187472, y: 0.8187472, z: 0.8187472}
-        inSlope: {x: 1.28891, y: 1.28891, z: 1.28891}
-        outSlope: {x: 1.28891, y: 1.28891, z: 1.28891}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
+        inSlope: {x: 1.2889109, y: 1.2889109, z: 1.2889109}
+        outSlope: {x: 1.2889099, y: 1.2889099, z: 1.2889099}
+        tangentMode: 1
+      - time: 0.20833337
         value: {x: 0.9664348, y: 0.9664348, z: 0.9664348}
-        inSlope: {x: 1.288908, y: 1.288908, z: 1.288908}
-        outSlope: {x: 1.288908, y: 1.288908, z: 1.288908}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
+        inSlope: {x: 1.2889079, y: 1.2889079, z: 1.2889079}
+        outSlope: {x: 1.2889081, y: 1.2889081, z: 1.2889081}
+        tangentMode: 1
+      - time: 0.25
         value: {x: 1, y: 1, z: 1}
-        inSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.80556613, y: 0.80556613, z: 0.80556613}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA/invincible:Shard_Jnt_BB
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: {x: 1.301752, y: 1.301752, z: 1.301752}
-        inSlope: {x: -7.726666, y: -7.726666, z: -7.726666}
-        outSlope: {x: -7.726666, y: -7.726666, z: -7.726666}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 0.9798081, y: 0.9798081, z: 0.9798081}
-        inSlope: {x: -6.932803, y: -6.932803, z: -6.932803}
-        outSlope: {x: -6.932803, y: -6.932803, z: -6.932803}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 0.7240184, y: 0.7240184, z: 0.7240184}
-        inSlope: {x: -2.552001, y: -2.552001, z: -2.552001}
-        outSlope: {x: -2.552001, y: -2.552001, z: -2.552001}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0.7671408, y: 0.7671408, z: 0.7671408}
-        inSlope: {x: 1.655892, y: 1.655892, z: 1.655892}
-        outSlope: {x: 1.655892, y: 1.655892, z: 1.655892}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0.9568779, y: 0.9568779, z: 0.9568779}
-        inSlope: {x: 1.655887, y: 1.655887, z: 1.655887}
-        outSlope: {x: 1.655887, y: 1.655887, z: 1.655887}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 1, y: 1, z: 1}
+      - time: 0
+        value: {x: 1.3017522, y: 1.3017522, z: 1.3017522}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: -7.726666, y: -7.726666, z: -7.726666}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 0.9798081, y: 0.9798081, z: 0.9798081}
+        inSlope: {x: -6.9328027, y: -6.9328027, z: -6.9328027}
+        outSlope: {x: -6.932803, y: -6.932803, z: -6.932803}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 0.7240184, y: 0.7240184, z: 0.7240184}
+        inSlope: {x: -2.5520012, y: -2.5520012, z: -2.5520012}
+        outSlope: {x: -2.552001, y: -2.552001, z: -2.552001}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0.7671408, y: 0.7671408, z: 0.7671408}
+        inSlope: {x: 1.6558918, y: 1.6558918, z: 1.6558918}
+        outSlope: {x: 1.6558923, y: 1.6558923, z: 1.6558923}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0.95687795, y: 0.95687795, z: 0.95687795}
+        inSlope: {x: 1.6558876, y: 1.6558876, z: 1.6558876}
+        outSlope: {x: 1.6558869, y: 1.6558869, z: 1.6558869}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 1.0349302, y: 1.0349302, z: 1.0349302}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA/invincible:Shard_Jnt_CB
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 0.9953191, y: 0.9953191, z: 0.5220265}
-        inSlope: {x: 1.299088, y: 1.299088, z: 0.693601}
-        outSlope: {x: 1.299088, y: 1.299088, z: 0.693601}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 1.083284, y: 1.083284, z: 0.4179148}
-        inSlope: {x: 1.774779, y: 1.774779, z: -3.020707}
-        outSlope: {x: 1.774779, y: 1.774779, z: -3.020707}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 1.143217, y: 1.143217, z: 0.2703007}
-        inSlope: {x: -1.42434, y: -1.42434, z: -2.865459}
-        outSlope: {x: -1.42434, y: -1.42434, z: -2.865459}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0.9645895, y: 0.9645895, z: 0.1791263}
-        inSlope: {x: -6.859311, y: -6.859311, z: -2.143832}
-        outSlope: {x: -6.859311, y: -6.859311, z: -2.143832}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0.5716087, y: 0.5716087, z: 0.09164825}
-        inSlope: {x: -9.431543, y: -9.431543, z: -1.838462}
-        outSlope: {x: -9.431543, y: -9.431543, z: -1.838462}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0.1786271, y: 0.1786271, z: 0.02592109}
-        inSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        outSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.299088, y: 1.299088, z: 0.693601}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 1.0832841, y: 1.0832841, z: 0.4179148}
+        inSlope: {x: 1.7747791, y: 1.7747791, z: -3.0207076}
+        outSlope: {x: 1.7747793, y: 1.7747793, z: -3.0207067}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 1.1432174, y: 1.1432174, z: 0.27030075}
+        inSlope: {x: -1.4243398, y: -1.4243398, z: -2.8654592}
+        outSlope: {x: -1.4243395, y: -1.4243395, z: -2.8654594}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0.9645895, y: 0.9645895, z: 0.17912632}
+        inSlope: {x: -6.8593116, y: -6.8593116, z: -2.143831}
+        outSlope: {x: -6.859311, y: -6.859311, z: -2.143832}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 0.5716087, y: 0.5716087, z: 0.09164825}
+        inSlope: {x: -9.431538, y: -9.431538, z: -1.8384622}
+        outSlope: {x: -9.431543, y: -9.431543, z: -1.8384622}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0.17862712, y: 0.17862712, z: 0.025921093}
+        inSlope: {x: -6.8593016, y: -6.8593016, z: -1.0997778}
+        outSlope: {x: -6.8592978, y: -6.8592978, z: -1.0997778}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -4.2870545, y: -4.2870545, z: -0.6221073}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 0.9953191, y: 0.9953191, z: 0.5220263}
-        inSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        outSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 1.083284, y: 1.083284, z: 0.4179148}
-        inSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        outSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 1.143217, y: 1.143217, z: 0.2703007}
-        inSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        outSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0.9645889, y: 0.9645889, z: 0.1791262}
-        inSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        outSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
-        inSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        outSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0.1786276, y: 0.1786276, z: 0.02592116}
-        inSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        outSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 1E-12, y: 1E-12, z: 1E-12}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.1111622, y: 2.1111622, z: -2.4986782}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 1.0832841, y: 1.0832841, z: 0.4179148}
+        inSlope: {x: 1.7747797, y: 1.7747797, z: -3.0207057}
+        outSlope: {x: 1.7747793, y: 1.7747793, z: -3.0207057}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 1.1432174, y: 1.1432174, z: 0.27030066}
+        inSlope: {x: -1.4243464, y: -1.4243464, z: -2.8654606}
+        outSlope: {x: -1.4243467, y: -1.4243467, z: -2.8654613}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0.9645889, y: 0.9645889, z: 0.17912616}
+        inSlope: {x: -6.8593116, y: -6.8593116, z: -2.143832}
+        outSlope: {x: -6.859311, y: -6.859311, z: -2.1438313}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
+        inSlope: {x: -9.431527, y: -9.431527, z: -1.8384604}
+        outSlope: {x: -9.43153, y: -9.43153, z: -1.8384595}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0.17862764, y: 0.17862764, z: 0.025921162}
+        inSlope: {x: -6.8592997, y: -6.8592997, z: -1.0997778}
+        outSlope: {x: -6.8592978, y: -6.8592978, z: -1.0997776}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 1E-12, y: 1E-12, z: 1E-12}
+        inSlope: {x: -4.2870693, y: -4.2870693, z: -0.6221082}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 0.9953191, y: 0.9953191, z: 0.5220263}
-        inSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        outSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 1.083284, y: 1.083284, z: 0.4179148}
-        inSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        outSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 1.143217, y: 1.143217, z: 0.2703007}
-        inSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        outSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0.9645889, y: 0.9645889, z: 0.1791262}
-        inSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        outSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
-        inSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        outSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0.1786276, y: 0.1786276, z: 0.02592116}
-        inSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        outSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 1E-12, y: 1E-12, z: 1E-12}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.1111622, y: 2.1111622, z: -2.4986782}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 1.0832841, y: 1.0832841, z: 0.4179148}
+        inSlope: {x: 1.7747797, y: 1.7747797, z: -3.0207057}
+        outSlope: {x: 1.7747793, y: 1.7747793, z: -3.0207057}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 1.1432174, y: 1.1432174, z: 0.27030066}
+        inSlope: {x: -1.4243464, y: -1.4243464, z: -2.8654606}
+        outSlope: {x: -1.4243467, y: -1.4243467, z: -2.8654613}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0.9645889, y: 0.9645889, z: 0.17912616}
+        inSlope: {x: -6.8593116, y: -6.8593116, z: -2.143832}
+        outSlope: {x: -6.859311, y: -6.859311, z: -2.1438313}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
+        inSlope: {x: -9.431527, y: -9.431527, z: -1.8384604}
+        outSlope: {x: -9.43153, y: -9.43153, z: -1.8384595}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0.17862764, y: 0.17862764, z: 0.025921162}
+        inSlope: {x: -6.8592997, y: -6.8592997, z: -1.0997778}
+        outSlope: {x: -6.8592978, y: -6.8592978, z: -1.0997776}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 1E-12, y: 1E-12, z: 1E-12}
+        inSlope: {x: -4.2870693, y: -4.2870693, z: -0.6221082}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 0.9953191, y: 0.9953191, z: 0.5220263}
-        inSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        outSlope: {x: 2.111162, y: 2.111162, z: -2.498678}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: {x: 1.083284, y: 1.083284, z: 0.4179148}
-        inSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        outSlope: {x: 1.774779, y: 1.774779, z: -3.020706}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: {x: 1.143217, y: 1.143217, z: 0.2703007}
-        inSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        outSlope: {x: -1.424347, y: -1.424347, z: -2.865461}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: {x: 0.9645889, y: 0.9645889, z: 0.1791262}
-        inSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        outSlope: {x: -6.859311, y: -6.859311, z: -2.143831}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
-        inSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        outSlope: {x: -9.43153, y: -9.43153, z: -1.838459}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: {x: 0.1786276, y: 0.1786276, z: 0.02592116}
-        inSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        outSlope: {x: -6.859298, y: -6.859298, z: -1.099778}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 1E-12, y: 1E-12, z: 1E-12}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.1111622, y: 2.1111622, z: -2.4986782}
+        tangentMode: 1
+      - time: 0.041666627
+        value: {x: 1.0832841, y: 1.0832841, z: 0.4179148}
+        inSlope: {x: 1.7747797, y: 1.7747797, z: -3.0207057}
+        outSlope: {x: 1.7747793, y: 1.7747793, z: -3.0207057}
+        tangentMode: 1
+      - time: 0.08333337
+        value: {x: 1.1432174, y: 1.1432174, z: 0.27030066}
+        inSlope: {x: -1.4243464, y: -1.4243464, z: -2.8654606}
+        outSlope: {x: -1.4243467, y: -1.4243467, z: -2.8654613}
+        tangentMode: 1
+      - time: 0.125
+        value: {x: 0.9645889, y: 0.9645889, z: 0.17912616}
+        inSlope: {x: -6.8593116, y: -6.8593116, z: -2.143832}
+        outSlope: {x: -6.859311, y: -6.859311, z: -2.1438313}
+        tangentMode: 1
+      - time: 0.16666663
+        value: {x: 0.5716087, y: 0.5716087, z: 0.09164823}
+        inSlope: {x: -9.431527, y: -9.431527, z: -1.8384604}
+        outSlope: {x: -9.43153, y: -9.43153, z: -1.8384595}
+        tangentMode: 1
+      - time: 0.20833337
+        value: {x: 0.17862764, y: 0.17862764, z: 0.025921162}
+        inSlope: {x: -6.8592997, y: -6.8592997, z: -1.0997778}
+        outSlope: {x: -6.8592978, y: -6.8592978, z: -1.0997776}
+        tangentMode: 1
+      - time: 0.25
+        value: {x: 1E-12, y: 1E-12, z: 1E-12}
+        inSlope: {x: -4.2870693, y: -4.2870693, z: -0.6221082}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: {x: 1, y: 1, z: 1}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
+        tangentMode: 1
+      - time: 0.25
         value: {x: 1, y: 1, z: 1}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp
-  m_FloatCurves:
-  m_PPtrCurves:
+  m_FloatCurves: []
+  m_PPtrCurves: []
   m_SampleRate: 24
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
-  m_MuscleClipSize: 10888
-  m_MuscleClip:
-    serializedVersion: 3
-    m_DeltaPose:
-      m_RootX:
-        t: {x: 0, y: 0, z: 0, w: 0}
-        q: {x: 0, y: 0, z: 0, w: 1}
-        s: {x: 1, y: 1, z: 1, w: 1}
-      m_LookAtPosition: {x: 0, y: 0, z: 0, w: 0}
-      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
-      m_GoalArray:
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      m_LeftHandPose:
-        m_GrabX:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-        m_DoFArray:
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        m_Override: 0
-        m_CloseOpen: 0
-        m_InOut: 0
-        m_Grab: 0
-      m_RightHandPose:
-        m_GrabX:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-        m_DoFArray:
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        m_Override: 0
-        m_CloseOpen: 0
-        m_InOut: 0
-        m_Grab: 0
-      m_DoFArray:
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-      m_TDoFArray:
-    m_StartX:
-      t: {x: 0, y: 0, z: 0, w: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1, w: 1}
-    m_StopX:
-      t: {x: 0, y: 0, z: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1}
-    m_LeftFootStartX:
-      t: {x: 0, y: 0, z: 0, w: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1, w: 1}
-    m_RightFootStartX:
-      t: {x: 0, y: 0, z: 0, w: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1, w: 1}
-    m_AverageSpeed: {x: 0, y: 0, z: 0, w: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - serializedVersion: 2
-      path: 703195341
+    - path: 703195341
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 46447374
+    - path: 46447374
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 467634767
+    - path: 467634767
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3061770671
+    - path: 3061770671
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 703195341
+    - path: 703195341
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 46447374
+    - path: 46447374
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 467634767
+    - path: 467634767
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3061770671
+    - path: 3061770671
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 65051978
+    - path: 65051978
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2502900342
+    - path: 2502900342
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3729320424
+    - path: 3729320424
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3507102725
+    - path: 3507102725
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2816300437
+    - path: 2816300437
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2124934062
+    - path: 2124934062
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2158066808
+    - path: 2158066808
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3061770671
+    - path: 3061770671
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3175013323
+    - path: 3175013323
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4042685120
+    - path: 4042685120
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1001040229
+    - path: 1001040229
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3507102725
+    - path: 3507102725
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3175013323
+    - path: 3175013323
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4042685120
+    - path: 4042685120
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1001040229
+    - path: 1001040229
       attribute: 1
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3507102725
+    - path: 3507102725
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3175013323
+    - path: 3175013323
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4042685120
+    - path: 4042685120
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1001040229
+    - path: 1001040229
       attribute: 2
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1692179695
+    - path: 1692179695
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    pptrCurveMapping:
+    pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
-    m_AdditiveReferencePoseClip: {fileID: 0}
-    m_AdditiveReferencePoseTime: 
     m_StartTime: 0
     m_StopTime: 0.25
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
-    m_HasAdditiveReferencePose: 
     m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
@@ -1337,3400 +982,6 @@ AnimationClip:
     m_KeepOriginalPositionXZ: 0
     m_HeightFromFeet: 0
     m_Mirror: 0
-    m_HasGenericRootTransform: 0
-    m_HasMotionFloatCurves: 0
-    m_GenerateMotionCurves: 0
-  m_EditorCurves:
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -7.105427E-15
-        inSlope: 1.705345E-13
-        outSlope: 1.705345E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 7.105427E-15
-        inSlope: -3.410684E-13
-        outSlope: -3.410684E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: -2.842171E-14
-        inSlope: -8.52633E-14
-        outSlope: -8.52633E-14
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: -2.316637E-19
-        outSlope: -2.316637E-19
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 7.746615E-08
-        outSlope: 7.746615E-08
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: 0
-        inSlope: -0.02343756
-        outSlope: -0.02343756
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: -0.001953125
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -7.105427E-15
-        inSlope: 1.705345E-13
-        outSlope: 1.705345E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 7.105427E-15
-        inSlope: -3.410684E-13
-        outSlope: -3.410684E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: -2.842171E-14
-        inSlope: -8.52633E-14
-        outSlope: -8.52633E-14
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: -2.316637E-19
-        outSlope: -2.316637E-19
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 7.746615E-08
-        outSlope: 7.746615E-08
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: 0
-        inSlope: -0.02343756
-        outSlope: -0.02343756
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: -0.001953125
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -7.105427E-15
-        inSlope: 1.705345E-13
-        outSlope: 1.705345E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 7.105427E-15
-        inSlope: -3.410684E-13
-        outSlope: -3.410684E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: -2.842171E-14
-        inSlope: -8.52633E-14
-        outSlope: -8.52633E-14
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: -2.316637E-19
-        outSlope: -2.316637E-19
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 7.746615E-08
-        outSlope: 7.746615E-08
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: 0
-        inSlope: -0.02343756
-        outSlope: -0.02343756
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: -0.001953125
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 38.49387
-        inSlope: 6.597904E-13
-        outSlope: 6.597904E-13
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -1.497807E-06
-        inSlope: -23.99999
-        outSlope: -23.99999
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: -1
-        inSlope: -3.433228E-05
-        outSlope: -3.433228E-05
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: -1.4978E-06
-        inSlope: 11.99998
-        outSlope: 11.99998
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 1.797361E-05
-        outSlope: 1.797361E-05
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: -24.00002
-        outSlope: -24.00002
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 6.123234E-17
-        inSlope: -23.99999
-        outSlope: -23.99999
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: -1
-        inSlope: -11.99998
-        outSlope: -11.99998
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: -1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: -1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -1
-        inSlope: 7.029443
-        outSlope: 7.029443
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: -0.7071068
-        inSlope: 12
-        outSlope: 12
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 7.488998E-07
-        inSlope: 8.485267
-        outSlope: 8.485267
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: -8.986805E-06
-        outSlope: -8.986805E-06
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 7.989483E-07
-        inSlope: 16.97056
-        outSlope: 16.97056
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.7071068
-        inSlope: 11.99999
-        outSlope: 11.99999
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1
-        inSlope: 3.514711
-        outSlope: 3.514711
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -4.992684E-07
-        inSlope: -12
-        outSlope: -12
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: -0.5
-        inSlope: -10.3923
-        outSlope: -10.3923
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: -0.8660259
-        inSlope: -5.999993
-        outSlope: -5.999993
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: -1
-        inSlope: 5.722046E-06
-        outSlope: 5.722046E-06
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: -0.8660254
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: -0.4999993
-        inSlope: 10.3923
-        outSlope: 10.3923
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: -1.224647E-16
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: -3.215394
-        outSlope: -3.215394
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.8660254
-        inSlope: -6.000002
-        outSlope: -6.000002
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.4999993
-        inSlope: -10.39231
-        outSlope: -10.39231
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: -3.994742E-07
-        inSlope: -12
-        outSlope: -12
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: -0.5
-        inSlope: -10.3923
-        outSlope: -10.3923
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: -0.8660258
-        inSlope: -5.999993
-        outSlope: -5.999993
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: -1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.8291556
-        inSlope: 0.06973193
-        outSlope: 0.06973193
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.559056
-        inSlope: -0.1020778
-        outSlope: -0.1020778
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO/invincible:Shard_Ctrl_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO/invincible:Shard_Ctrl_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -1.597897E-06
-        inSlope: -10.1228
-        outSlope: -10.1228
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: -1
-        inSlope: -1.525879E-05
-        outSlope: -1.525879E-05
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 11.99998
-        outSlope: 11.99998
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO/invincible:Shard_Ctrl_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -1
-        inSlope: 11.85227
-        outSlope: 11.85227
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 6.123234E-17
-        inSlope: 23.99999
-        outSlope: 23.99999
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1
-        inSlope: 11.99998
-        outSlope: 11.99998
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO/invincible:Shard_Ctrl_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO/invincible:Shard_Ctrl_C
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO/invincible:Shard_Ctrl_C
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -1
-        inSlope: 3.47773
-        outSlope: 3.47773
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: -0.7071068
-        inSlope: 11.99999
-        outSlope: 11.99999
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 8.485266
-        outSlope: 8.485266
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO/invincible:Shard_Ctrl_C
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 7.989483E-07
-        inSlope: 7.543782
-        outSlope: 7.543782
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.7071068
-        inSlope: 11.99999
-        outSlope: 11.99999
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1
-        inSlope: 3.514711
-        outSlope: 3.514711
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO/invincible:Shard_Ctrl_C
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO/invincible:Shard_Ctrl_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO/invincible:Shard_Ctrl_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 5.326322E-07
-        inSlope: 4.122793
-        outSlope: 4.122793
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.5
-        inSlope: 10.3923
-        outSlope: 10.3923
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.8660259
-        inSlope: 5.999993
-        outSlope: 5.999993
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 1
-        inSlope: -5.722046E-06
-        outSlope: -5.722046E-06
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.8660254
-        inSlope: -6.000004
-        outSlope: -6.000004
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.4999991
-        inSlope: -10.3923
-        outSlope: -10.3923
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO/invincible:Shard_Ctrl_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -1
-        inSlope: 1.459958
-        outSlope: 1.459958
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: -0.8660254
-        inSlope: 6.000003
-        outSlope: 6.000003
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: -0.4999992
-        inSlope: 10.39231
-        outSlope: 10.39231
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 5.326322E-07
-        inSlope: 12
-        outSlope: 12
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5
-        inSlope: 10.3923
-        outSlope: 10.3923
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.8660259
-        inSlope: 5.999993
-        outSlope: 5.999993
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO/invincible:Shard_Ctrl_B
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5220263
-        inSlope: -2.498678
-        outSlope: -2.498678
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.4179148
-        inSlope: -3.020706
-        outSlope: -3.020706
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.2703007
-        inSlope: -2.865461
-        outSlope: -2.865461
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.1791262
-        inSlope: -2.143831
-        outSlope: -2.143831
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.09164823
-        inSlope: -1.838459
-        outSlope: -1.838459
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.02592116
-        inSlope: -1.099778
-        outSlope: -1.099778
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.128006
-        inSlope: -5.312643
-        outSlope: -5.312643
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.9066462
-        inSlope: -4.369864
-        outSlope: -4.369864
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7638507
-        inSlope: -1.270759
-        outSlope: -1.270759
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.8007493
-        inSlope: 1.416898
-        outSlope: 1.416898
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9631018
-        inSlope: 1.416893
-        outSlope: 1.416893
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA/invincible:Shard_Jnt_AB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.128006
-        inSlope: -5.312643
-        outSlope: -5.312643
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.9066462
-        inSlope: -4.369864
-        outSlope: -4.369864
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7638507
-        inSlope: -1.270759
-        outSlope: -1.270759
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.8007493
-        inSlope: 1.416898
-        outSlope: 1.416898
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9631018
-        inSlope: 1.416893
-        outSlope: 1.416893
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA/invincible:Shard_Jnt_AB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.128006
-        inSlope: -5.312643
-        outSlope: -5.312643
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.9066462
-        inSlope: -4.369864
-        outSlope: -4.369864
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7638507
-        inSlope: -1.270759
-        outSlope: -1.270759
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.8007493
-        inSlope: 1.416898
-        outSlope: 1.416898
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9631018
-        inSlope: 1.416893
-        outSlope: 1.416893
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_AA/invincible:Shard_Jnt_AB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.044161
-        inSlope: -3.626314
-        outSlope: -3.626314
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.8930643
-        inSlope: -3.107745
-        outSlope: -3.107745
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7851818
-        inSlope: -0.8918023
-        outSlope: -0.8918023
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.8187472
-        inSlope: 1.28891
-        outSlope: 1.28891
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9664348
-        inSlope: 1.288908
-        outSlope: 1.288908
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA/invincible:Shard_Jnt_BB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.044161
-        inSlope: -3.626314
-        outSlope: -3.626314
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.8930643
-        inSlope: -3.107745
-        outSlope: -3.107745
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7851818
-        inSlope: -0.8918023
-        outSlope: -0.8918023
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.8187472
-        inSlope: 1.28891
-        outSlope: 1.28891
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9664348
-        inSlope: 1.288908
-        outSlope: 1.288908
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA/invincible:Shard_Jnt_BB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.044161
-        inSlope: -3.626314
-        outSlope: -3.626314
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.8930643
-        inSlope: -3.107745
-        outSlope: -3.107745
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7851818
-        inSlope: -0.8918023
-        outSlope: -0.8918023
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.8187472
-        inSlope: 1.28891
-        outSlope: 1.28891
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9664348
-        inSlope: 1.288908
-        outSlope: 1.288908
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_BA/invincible:Shard_Jnt_BB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.301752
-        inSlope: -7.726666
-        outSlope: -7.726666
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.9798081
-        inSlope: -6.932803
-        outSlope: -6.932803
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7240184
-        inSlope: -2.552001
-        outSlope: -2.552001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.7671408
-        inSlope: 1.655892
-        outSlope: 1.655892
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9568779
-        inSlope: 1.655887
-        outSlope: 1.655887
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA/invincible:Shard_Jnt_CB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.301752
-        inSlope: -7.726666
-        outSlope: -7.726666
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.9798081
-        inSlope: -6.932803
-        outSlope: -6.932803
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7240184
-        inSlope: -2.552001
-        outSlope: -2.552001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.7671408
-        inSlope: 1.655892
-        outSlope: 1.655892
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9568779
-        inSlope: 1.655887
-        outSlope: 1.655887
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA/invincible:Shard_Jnt_CB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1.301752
-        inSlope: -7.726666
-        outSlope: -7.726666
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.9798081
-        inSlope: -6.932803
-        outSlope: -6.932803
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.7240184
-        inSlope: -2.552001
-        outSlope: -2.552001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.7671408
-        inSlope: 1.655892
-        outSlope: 1.655892
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.9568779
-        inSlope: 1.655887
-        outSlope: 1.655887
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp/invincible:Shard_Jnt_CA/invincible:Shard_Jnt_CB
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 1.299088
-        outSlope: 1.299088
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.42434
-        outSlope: -1.42434
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645895
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.431543
-        outSlope: -9.431543
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786271
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 1.299088
-        outSlope: 1.299088
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.42434
-        outSlope: -1.42434
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645895
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.431543
-        outSlope: -9.431543
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786271
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5220265
-        inSlope: 0.693601
-        outSlope: 0.693601
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.4179148
-        inSlope: -3.020707
-        outSlope: -3.020707
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.2703007
-        inSlope: -2.865459
-        outSlope: -2.865459
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.1791263
-        inSlope: -2.143832
-        outSlope: -2.143832
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.09164825
-        inSlope: -1.838462
-        outSlope: -1.838462
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.02592109
-        inSlope: -1.099778
-        outSlope: -1.099778
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Ctrl/invincible:InvincibilityMain_Ctrl_ZERO/invincible:InvincibilityMain_Ctrl
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5220263
-        inSlope: -2.498678
-        outSlope: -2.498678
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.4179148
-        inSlope: -3.020706
-        outSlope: -3.020706
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.2703007
-        inSlope: -2.865461
-        outSlope: -2.865461
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.1791262
-        inSlope: -2.143831
-        outSlope: -2.143831
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.09164823
-        inSlope: -1.838459
-        outSlope: -1.838459
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.02592116
-        inSlope: -1.099778
-        outSlope: -1.099778
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5220263
-        inSlope: -2.498678
-        outSlope: -2.498678
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.4179148
-        inSlope: -3.020706
-        outSlope: -3.020706
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.2703007
-        inSlope: -2.865461
-        outSlope: -2.865461
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.1791262
-        inSlope: -2.143831
-        outSlope: -2.143831
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.09164823
-        inSlope: -1.838459
-        outSlope: -1.838459
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.02592116
-        inSlope: -1.099778
-        outSlope: -1.099778
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.9953191
-        inSlope: 2.111162
-        outSlope: 2.111162
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 1.083284
-        inSlope: 1.774779
-        outSlope: 1.774779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 1.143217
-        inSlope: -1.424347
-        outSlope: -1.424347
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.9645889
-        inSlope: -6.859311
-        outSlope: -6.859311
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.5716087
-        inSlope: -9.43153
-        outSlope: -9.43153
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.1786276
-        inSlope: -6.859298
-        outSlope: -6.859298
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5220263
-        inSlope: -2.498678
-        outSlope: -2.498678
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.04166663
-        value: 0.4179148
-        inSlope: -3.020706
-        outSlope: -3.020706
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.08333337
-        value: 0.2703007
-        inSlope: -2.865461
-        outSlope: -2.865461
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.125
-        value: 0.1791262
-        inSlope: -2.143831
-        outSlope: -2.143831
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.1666666
-        value: 0.09164823
-        inSlope: -1.838459
-        outSlope: -1.838459
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2083334
-        value: 0.02592116
-        inSlope: -1.099778
-        outSlope: -1.099778
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1E-12
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 38.49387
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Joints/invincible:invincibility_Jnt_A
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:Shard_Ctrl_A_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:Shard_Ctrl_C_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.x
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.y
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.830153
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.z
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.5575356
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalRotation.w
-    path: invincible:Ctrl/invincible:Shard_Ctrl_B_ZERO
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.25
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: invincible:Joints/invincible:invincibility_Jnt_A/invincible:scale_grp
-    classID: 4
-    script: {fileID: 0}
-  m_Events:
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

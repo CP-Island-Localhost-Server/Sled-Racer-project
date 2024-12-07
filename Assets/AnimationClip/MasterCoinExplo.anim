@@ -2,606 +2,679 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
 AnimationClip:
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: "MasterCoinExplo"
-  serializedVersion: 6
-  m_Legacy: 0
+  m_Name: MasterCoinExplo
+  m_AnimationType: 2
   m_Compressed: 0
   m_UseHighQualityCurve: 1
-  m_RotationCurves:
+  m_RotationCurves: []
   m_CompressedRotationCurves: []
-  m_EulerCurves:
-  m_PositionCurves:
+  m_PositionCurves: []
   m_ScaleCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
+      - time: 0
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 1.5, y: 1.5, z: 1.5}
-        outSlope: {x: 1.5, y: 1.5, z: 1.5}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: {x: 0.7, y: 0.7, z: 0.7}
-        inSlope: {x: 1.007143, y: 1.007143, z: 1.007143}
-        outSlope: {x: 1.007143, y: 1.007143, z: 1.007143}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.033333
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.106493, y: -1.106493, z: -1.106493}
-        outSlope: {x: -1.106493, y: -1.106493, z: -1.106493}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.3999999, y: 2.3999999, z: 2.3999999}
+        tangentMode: 1
+      - time: 0.33333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 1.2000004, y: 1.2000004, z: 1.2000004}
+        outSlope: {x: 1.1999999, y: 1.1999999, z: 1.1999999}
+        tangentMode: 1
+      - time: 0.9166667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -1.3636364, y: -1.3636364, z: -1.3636364}
+        outSlope: {x: -1.3636366, y: -1.3636366, z: -1.3636366}
+        tangentMode: 1
+      - time: 1.2833333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.7272732, y: -2.7272732, z: -2.7272732}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
+    path: SmallCoinImagePanel10
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.11666667
+        value: {x: 0.2, y: 0.2, z: 0.2}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 1.5000001, y: 1.5000001, z: 1.5000001}
+        tangentMode: 1
+      - time: 0.45
+        value: {x: 0.7, y: 0.7, z: 0.7}
+        inSlope: {x: 1.0071429, y: 1.0071429, z: 1.0071429}
+        outSlope: {x: 1.0071429, y: 1.0071429, z: 1.0071429}
+        tangentMode: 1
+      - time: 1.0333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -1.1064932, y: -1.1064932, z: -1.1064932}
+        outSlope: {x: -1.1064935, y: -1.1064935, z: -1.1064935}
+        tangentMode: 1
+      - time: 1.4
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.727273, y: -2.727273, z: -2.727273}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
     path: SmallCoinImagePanel1
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
+      - time: 0.16666667
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.1, y: 2.1, z: 2.1}
-        outSlope: {x: 2.1, y: 2.1, z: 2.1}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.1000001, y: 2.1000001, z: 2.1000001}
+        tangentMode: 1
+      - time: 0.5
         value: {x: 0.9, y: 0.9, z: 0.9}
-        inSlope: {x: 1.135714, y: 1.135714, z: 1.135714}
-        outSlope: {x: 1.135714, y: 1.135714, z: 1.135714}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
+        inSlope: {x: 1.1357137, y: 1.1357137, z: 1.1357137}
+        outSlope: {x: 1.1357144, y: 1.1357144, z: 1.1357144}
+        tangentMode: 1
+      - time: 1.0833334
         value: {x: 1, y: 1, z: 1}
         inSlope: {x: -1.277922, y: -1.277922, z: -1.277922}
         outSlope: {x: -1.277922, y: -1.277922, z: -1.277922}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
+        tangentMode: 1
+      - time: 1.45
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.727273, y: -2.727273, z: -2.727273}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: SmallCoinImagePanel2
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.3
+      - time: 0.25
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 0.9000001, y: 0.9000001, z: 0.9000001}
-        outSlope: {x: 0.9000001, y: 0.9000001, z: 0.9000001}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: {x: 0.5, y: 0.5, z: 0.5}
-        inSlope: {x: 0.8785715, y: 0.8785715, z: 0.8785715}
-        outSlope: {x: 0.8785715, y: 0.8785715, z: 0.8785715}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.216667
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -0.935065, y: -0.935065, z: -0.935065}
-        outSlope: {x: -0.935065, y: -0.935065, z: -0.935065}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: SmallCoinImagePanel3
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.4, y: 2.4, z: 2.4}
         outSlope: {x: 2.4, y: 2.4, z: 2.4}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
+        tangentMode: 1
+      - time: 0.5833333
         value: {x: 1, y: 1, z: 1}
-        inSlope: {x: 1.2, y: 1.2, z: 1.2}
+        inSlope: {x: 1.200001, y: 1.200001, z: 1.200001}
         outSlope: {x: 1.2, y: 1.2, z: 1.2}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.166667
+        tangentMode: 1
+      - time: 1.1666666
         value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.363636, y: -1.363636, z: -1.363636}
-        outSlope: {x: -1.363636, y: -1.363636, z: -1.363636}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
+        inSlope: {x: -1.3636363, y: -1.3636363, z: -1.3636363}
+        outSlope: {x: -1.3636364, y: -1.3636364, z: -1.3636364}
+        tangentMode: 1
+      - time: 1.5333333
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.7272725, y: -2.7272725, z: -2.7272725}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: SmallCoinImagePanel4
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
+      - time: 0.3
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.55, y: 2.55, z: 2.55}
-        outSlope: {x: 2.55, y: 2.55, z: 2.55}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: {x: 1.05, y: 1.05, z: 1.05}
-        inSlope: {x: 1.232143, y: 1.232143, z: 1.232143}
-        outSlope: {x: 1.232143, y: 1.232143, z: 1.232143}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.406493, y: -1.406493, z: -1.406493}
-        outSlope: {x: -1.406493, y: -1.406493, z: -1.406493}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0.9000001, y: 0.9000001, z: 0.9000001}
+        tangentMode: 1
+      - time: 0.6333333
+        value: {x: 0.5, y: 0.5, z: 0.5}
+        inSlope: {x: 0.8785712, y: 0.8785712, z: 0.8785712}
+        outSlope: {x: 0.87857145, y: 0.87857145, z: 0.87857145}
+        tangentMode: 1
+      - time: 1.2166667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -0.93506515, y: -0.93506515, z: -0.93506515}
+        outSlope: {x: -0.935065, y: -0.935065, z: -0.935065}
+        tangentMode: 1
+      - time: 1.5833334
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.7272725, y: -2.7272725, z: -2.7272725}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
+    path: SmallCoinImagePanel3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.48333332
+        value: {x: 0.2, y: 0.2, z: 0.2}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.5499997, y: 2.5499997, z: 2.5499997}
+        tangentMode: 1
+      - time: 0.81666666
+        value: {x: 1.05, y: 1.05, z: 1.05}
+        inSlope: {x: 1.2321433, y: 1.2321433, z: 1.2321433}
+        outSlope: {x: 1.2321428, y: 1.2321428, z: 1.2321428}
+        tangentMode: 1
+      - time: 1.4
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -1.4064932, y: -1.4064932, z: -1.4064932}
+        outSlope: {x: -1.4064934, y: -1.4064934, z: -1.4064934}
+        tangentMode: 1
+      - time: 1.7666667
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.727273, y: -2.727273, z: -2.727273}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
     path: SmallCoinImagePanel5
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
+      - time: 0.71666664
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.25, y: 2.25, z: 2.25}
-        outSlope: {x: 2.25, y: 2.25, z: 2.25}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: {x: 0.95, y: 0.95, z: 0.95}
-        inSlope: {x: 1.167857, y: 1.167857, z: 1.167857}
-        outSlope: {x: 1.167857, y: 1.167857, z: 1.167857}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.633333
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.320779, y: -1.320779, z: -1.320779}
-        outSlope: {x: -1.320779, y: -1.320779, z: -1.320779}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.2500002, y: 2.2500002, z: 2.2500002}
+        tangentMode: 1
+      - time: 1.05
+        value: {x: 0.95, y: 0.95, z: 0.95}
+        inSlope: {x: 1.1678576, y: 1.1678576, z: 1.1678576}
+        outSlope: {x: 1.1678573, y: 1.1678573, z: 1.1678573}
+        tangentMode: 1
+      - time: 1.6333333
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -1.3207793, y: -1.3207793, z: -1.3207793}
+        outSlope: {x: -1.3207792, y: -1.3207792, z: -1.3207792}
+        tangentMode: 1
+      - time: 2
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.7272718, y: -2.7272718, z: -2.7272718}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: SmallCoinImagePanel6
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.75
+      - time: 0.75
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.4, y: 2.4, z: 2.4}
-        outSlope: {x: 2.4, y: 2.4, z: 2.4}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: 1.2, y: 1.2, z: 1.2}
-        outSlope: {x: 1.2, y: 1.2, z: 1.2}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.666667
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.363636, y: -1.363636, z: -1.363636}
-        outSlope: {x: -1.363636, y: -1.363636, z: -1.363636}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.3999999, y: 2.3999999, z: 2.3999999}
+        tangentMode: 1
+      - time: 1.0833334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 1.1999998, y: 1.1999998, z: 1.1999998}
+        outSlope: {x: 1.1999999, y: 1.1999999, z: 1.1999999}
+        tangentMode: 1
+      - time: 1.6666666
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -1.3636365, y: -1.3636365, z: -1.3636365}
+        outSlope: {x: -1.3636364, y: -1.3636364, z: -1.3636364}
+        tangentMode: 1
+      - time: 2.0333333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.7272725, y: -2.7272725, z: -2.7272725}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: SmallCoinImagePanel7
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
+      - time: 1.2333333
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.7, y: 2.7, z: 2.7}
-        outSlope: {x: 2.7, y: 2.7, z: 2.7}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: {x: 1.1, y: 1.1, z: 1.1}
-        inSlope: {x: 1.264286, y: 1.264286, z: 1.264286}
-        outSlope: {x: 1.264286, y: 1.264286, z: 1.264286}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.3
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.44935, y: -1.44935, z: -1.44935}
-        outSlope: {x: -1.44935, y: -1.44935, z: -1.44935}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: SmallCoinImagePanel8
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 1.2, y: 1.2, z: 1.2}
-        outSlope: {x: 1.2, y: 1.2, z: 1.2}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
+        outSlope: {x: 1.1999999, y: 1.1999999, z: 1.1999999}
+        tangentMode: 1
+      - time: 1.5666667
         value: {x: 0.6, y: 0.6, z: 0.6}
-        inSlope: {x: 0.942857, y: 0.942857, z: 0.942857}
+        inSlope: {x: 0.9428564, y: 0.9428564, z: 0.9428564}
         outSlope: {x: 0.942857, y: 0.942857, z: 0.942857}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.15
+        tangentMode: 1
+      - time: 2.15
         value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.02078, y: -1.02078, z: -1.02078}
-        outSlope: {x: -1.02078, y: -1.02078, z: -1.02078}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
+        inSlope: {x: -1.0207794, y: -1.0207794, z: -1.0207794}
+        outSlope: {x: -1.0207796, y: -1.0207796, z: -1.0207796}
+        tangentMode: 1
+      - time: 2.5166667
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.727274, y: -2.727274, z: -2.727274}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     path: SmallCoinImagePanel9
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 1.3833333
         value: {x: 0.2, y: 0.2, z: 0.2}
-        inSlope: {x: 2.4, y: 2.4, z: 2.4}
-        outSlope: {x: 2.4, y: 2.4, z: 2.4}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: 1.2, y: 1.2, z: 1.2}
-        outSlope: {x: 1.2, y: 1.2, z: 1.2}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.9166667
-        value: {x: 1, y: 1, z: 1}
-        inSlope: {x: -1.363637, y: -1.363637, z: -1.363637}
-        outSlope: {x: -1.363637, y: -1.363637, z: -1.363637}
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: {x: 0, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 2.6999998, y: 2.6999998, z: 2.6999998}
+        tangentMode: 1
+      - time: 1.7166667
+        value: {x: 1.1, y: 1.1, z: 1.1}
+        inSlope: {x: 1.2642844, y: 1.2642844, z: 1.2642844}
+        outSlope: {x: 1.2642856, y: 1.2642856, z: 1.2642856}
+        tangentMode: 1
+      - time: 2.3
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: -1.4493506, y: -1.4493506, z: -1.4493506}
+        outSlope: {x: -1.4493502, y: -1.4493502, z: -1.4493502}
+        tangentMode: 1
+      - time: 2.6666667
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -2.727272, y: -2.727272, z: -2.727272}
         outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: SmallCoinImagePanel10
+    path: SmallCoinImagePanel8
   m_FloatCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0
+      - time: 0
+        value: -6.1035156E-05
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: -7.8
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: -13.9
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel1
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0
-        inSlope: 107.708
-        outSlope: 107.708
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: 22.0084
-        inSlope: 5.989402
-        outSlope: 5.989402
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: -100.4
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel1
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: -6.103516E-05
-        inSlope: 23.10018
-        outSlope: 23.10018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 7.7
-        inSlope: 16.49746
-        outSlope: 16.49746
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 17.1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel2
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: -4.436277
-        inSlope: 128.7849
-        outSlope: 128.7849
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 13.94485
-        inSlope: -13.39217
-        outSlope: -13.39217
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: -101.2
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel2
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: -6.103516E-05
-        inSlope: -9.599817
-        outSlope: -9.599817
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: -3.2
-        inSlope: -10.06307
-        outSlope: -10.06307
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: -13.2
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel3
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 9.155273E-05
-        inSlope: 167.5626
-        outSlope: 167.5626
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: 29.84971
-        inSlope: 1.642673
-        outSlope: 1.642673
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: -100
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel3
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: -6.103516E-05
-        inSlope: 8.700184
-        outSlope: 8.700184
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 2.9
-        inSlope: 7.507987
-        outSlope: 7.507987
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
+        tangentMode: 1
+      - time: 0.33333334
         value: 8.9
-        inSlope: 0
+        inSlope: -1.4946891E-05
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
+      - time: 1.2833333
+        value: 20.1
+        inSlope: 3.1973061E-06
+        outSlope: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel4
+    path: SmallCoinImagePanel10
     classID: 224
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 9.155273E-05
-        inSlope: 177.3332
-        outSlope: 177.3332
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 26.28765
-        inSlope: -2.566206
-        outSlope: -2.566206
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: -101.4
+      - time: 0
+        value: 10.630077
         inSlope: 0
+        outSlope: 148.49374
+        tangentMode: 1
+      - time: 0.33333334
+        value: 36.48941
+        inSlope: 2.2953338E-05
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
+      - time: 1.2833333
+        value: -90.67001
+        inSlope: -378.33514
+        outSlope: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel4
+    path: SmallCoinImagePanel10
     classID: 224
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: -6.103516E-05
-        inSlope: 66.30018
-        outSlope: 66.30018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 22.1
-        inSlope: 37.93956
-        outSlope: 37.93956
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 31.2
+      - time: 0.11666667
+        value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
+      - time: 0.45
+        value: -7.8
+        inSlope: 4.942217E-06
+        outSlope: 0
+        tangentMode: 1
+      - time: 1.4
+        value: -13.9
+        inSlope: 7.3964577E-07
+        outSlope: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel5
+    path: SmallCoinImagePanel1
     classID: 224
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 9.155273E-05
-        inSlope: 99.08634
-        outSlope: 99.08634
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 17.72971
-        inSlope: -6.337518
-        outSlope: -6.337518
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
+      - time: 0.11666667
+        value: 0
+        inSlope: 0
+        outSlope: 107.70801
+        tangentMode: 1
+      - time: 0.45
+        value: 22.008398
+        inSlope: 5.9893856
+        outSlope: 5.9894023
+        tangentMode: 1
+      - time: 1.4
+        value: -100.4
+        inSlope: -281.28735
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: SmallCoinImagePanel1
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.11666667
+        value: 0
+        inSlope: 0
+        outSlope: 6.0000005
+        tangentMode: 1
+      - time: 0.28333333
+        value: 1
+        inSlope: 3
+        outSlope: 3.0000002
+        tangentMode: 1
+      - time: 0.95
+        value: 1
+        inSlope: -1.1111112
+        outSlope: -1.1111112
+        tangentMode: 1
+      - time: 1.4
+        value: 0
+        inSlope: -2.2222223
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: SmallCoinImagePanel10/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.16666667
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: 23.100183
+        tangentMode: 1
+      - time: 0.5
+        value: 7.7
+        inSlope: 16.497448
+        outSlope: 16.49746
+        tangentMode: 1
+      - time: 1.45
+        value: 17.1
+        inSlope: 9.894734
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: SmallCoinImagePanel2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.16666667
+        value: -4.4362774
+        inSlope: 0
+        outSlope: 128.7849
+        tangentMode: 1
+      - time: 0.5
+        value: 13.944854
+        inSlope: -8.666487
+        outSlope: -13.392171
+        tangentMode: 1
+      - time: 1.45
         value: -101.2
-        inSlope: 0
+        inSlope: -243.5833
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
+    attribute: m_AnchoredPosition.y
+    path: SmallCoinImagePanel2
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 6
+        tangentMode: 1
+      - time: 0.33333334
+        value: 1
+        inSlope: 3.0000002
+        outSlope: 3
+        tangentMode: 1
+      - time: 1
+        value: 1
+        inSlope: -1.1111114
+        outSlope: -1.111111
+        tangentMode: 1
+      - time: 1.45
+        value: 0
+        inSlope: -2.222222
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: SmallCoinImagePanel2/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.25
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: 8.700184
+        tangentMode: 1
+      - time: 0.5833333
+        value: 2.9
+        inSlope: 7.5079913
+        outSlope: 7.5079865
+        tangentMode: 1
+      - time: 1.5333333
+        value: 8.9
+        inSlope: 6.315787
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: SmallCoinImagePanel4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.25
+        value: 9.1552734E-05
+        inSlope: 0
+        outSlope: 177.33316
+        tangentMode: 1
+      - time: 0.5833333
+        value: 26.287645
+        inSlope: 2.1326053
+        outSlope: -2.5662062
+        tangentMode: 1
+      - time: 1.5333333
+        value: -101.4
+        inSlope: -265.76483
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: SmallCoinImagePanel4
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 6.0000005
+        tangentMode: 1
+      - time: 0.41666666
+        value: 1
+        inSlope: 3.0000005
+        outSlope: 3.0000002
+        tangentMode: 1
+      - time: 1.0833334
+        value: 1
+        inSlope: -1.1111116
+        outSlope: -1.1111113
+        tangentMode: 1
+      - time: 1.5333333
+        value: 0
+        inSlope: -2.2222226
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: SmallCoinImagePanel4/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.3
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: -9.599817
+        tangentMode: 1
+      - time: 0.6333333
+        value: -3.2
+        inSlope: -10.063071
+        outSlope: -10.0630665
+        tangentMode: 1
+      - time: 1.5833334
+        value: -13.2
+        inSlope: -10.526316
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: SmallCoinImagePanel3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.3
+        value: 9.1552734E-05
+        inSlope: 0
+        outSlope: 167.56264
+        tangentMode: 1
+      - time: 0.6333333
+        value: 29.849709
+        inSlope: 1.6426686
+        outSlope: 1.642673
+        tangentMode: 1
+      - time: 1.5833334
+        value: -100
+        inSlope: -292.02536
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.y
+    path: SmallCoinImagePanel3
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.3
+        value: 0
+        inSlope: 0
+        outSlope: 6.0000005
+        tangentMode: 1
+      - time: 0.46666667
+        value: 1
+        inSlope: 3.0000005
+        outSlope: 3.0000002
+        tangentMode: 1
+      - time: 1.1333333
+        value: 1
+        inSlope: -1.1111104
+        outSlope: -1.111111
+        tangentMode: 1
+      - time: 1.5833334
+        value: 0
+        inSlope: -2.222222
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: SmallCoinImagePanel3/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.48333332
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: 66.30018
+        tangentMode: 1
+      - time: 0.81666666
+        value: 22.1
+        inSlope: 37.93959
+        outSlope: 37.939564
+        tangentMode: 1
+      - time: 1.7666667
+        value: 31.2
+        inSlope: 9.578968
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_AnchoredPosition.x
+    path: SmallCoinImagePanel5
+    classID: 224
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.48333332
+        value: 9.1552734E-05
+        inSlope: 0
+        outSlope: 99.08634
+        tangentMode: 1
+      - time: 0.81666666
+        value: 17.729713
+        inSlope: -4.7365613
+        outSlope: -6.3375177
+        tangentMode: 1
+      - time: 1.7666667
+        value: -101.2
+        inSlope: -308.07495
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
     attribute: m_AnchoredPosition.y
     path: SmallCoinImagePanel5
     classID: 224
@@ -609,27 +682,52 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: -6.103516E-05
-        inSlope: 12.00018
-        outSlope: 12.00018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 4
-        inSlope: 11.00009
-        outSlope: 11.00009
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 13.5
+      - time: 0.48333332
+        value: 0
         inSlope: 0
+        outSlope: 6.0000005
+        tangentMode: 1
+      - time: 0.65
+        value: 1
+        inSlope: 3.0000005
+        outSlope: 3.0000002
+        tangentMode: 1
+      - time: 1.3166667
+        value: 1
+        inSlope: -1.1111115
+        outSlope: -1.1111113
+        tangentMode: 1
+      - time: 1.7666667
+        value: 0
+        inSlope: -2.2222226
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
+    attribute: m_Color.a
+    path: SmallCoinImagePanel5/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.71666664
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: 12.000184
+        tangentMode: 1
+      - time: 1.05
+        value: 4
+        inSlope: 11.000092
+        outSlope: 11.000092
+        tangentMode: 1
+      - time: 2
+        value: 13.5
+        inSlope: 10.000001
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
     attribute: m_AnchoredPosition.x
     path: SmallCoinImagePanel6
     classID: 224
@@ -637,27 +735,23 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 9.155273E-05
-        inSlope: 94.3755
-        outSlope: 94.3755
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 19.23694
-        inSlope: -2.305503
-        outSlope: -2.305503
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: -101
+      - time: 0.71666664
+        value: 9.1552734E-05
         inSlope: 0
+        outSlope: 94.3755
+        tangentMode: 1
+      - time: 1.05
+        value: 19.23694
+        inSlope: -2.7741725
+        outSlope: -2.3055031
+        tangentMode: 1
+      - time: 2
+        value: -101
+        inSlope: -258.29364
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.y
     path: SmallCoinImagePanel6
     classID: 224
@@ -665,27 +759,52 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: -6.103516E-05
-        inSlope: -23.99981
-        outSlope: -23.99981
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
+      - time: 0.71666664
+        value: 0
+        inSlope: 0
+        outSlope: 5.9999995
+        tangentMode: 1
+      - time: 0.8833333
+        value: 1
+        inSlope: 3
+        outSlope: 2.9999998
+        tangentMode: 1
+      - time: 1.55
+        value: 1
+        inSlope: -1.111111
+        outSlope: -1.111111
+        tangentMode: 1
+      - time: 2
+        value: 0
+        inSlope: -2.222222
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: SmallCoinImagePanel6/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0.75
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: -23.999815
+        tangentMode: 1
+      - time: 1.0833334
         value: -8
         inSlope: -16.42096
         outSlope: -16.42096
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
+        tangentMode: 1
+      - time: 2.0333333
         value: -16.4
-        inSlope: 0
+        inSlope: -8.842105
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.x
     path: SmallCoinImagePanel7
     classID: 224
@@ -693,27 +812,23 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 9.155273E-05
-        inSlope: 104.6218
-        outSlope: 104.6218
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 21.96792
-        inSlope: -6.89402
-        outSlope: -6.89402
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
+      - time: 0.75
+        value: 9.1552734E-05
+        inSlope: 0
+        outSlope: 104.62177
+        tangentMode: 1
+      - time: 1.0833334
+        value: 21.967916
+        inSlope: -3.3077834
+        outSlope: -6.8940196
+        tangentMode: 1
+      - time: 2.0333333
         value: -101
-        inSlope: 0
+        inSlope: -258.2935
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.y
     path: SmallCoinImagePanel7
     classID: 224
@@ -721,83 +836,52 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: -6.103516E-05
-        inSlope: 29.10018
-        outSlope: 29.10018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 9.7
-        inSlope: 19.65535
-        outSlope: 19.65535
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 19.4
+      - time: 0.75
+        value: 0
         inSlope: 0
+        outSlope: 5.9999995
+        tangentMode: 1
+      - time: 0.9166667
+        value: 1
+        inSlope: 3
+        outSlope: 2.9999998
+        tangentMode: 1
+      - time: 1.5833334
+        value: 1
+        inSlope: -1.1111115
+        outSlope: -1.1111113
+        tangentMode: 1
+      - time: 2.0333333
+        value: 0
+        inSlope: -2.2222226
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel8
-    classID: 224
-    script: {fileID: 0}
+    attribute: m_Color.a
+    path: SmallCoinImagePanel7/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 9.155273E-05
-        inSlope: 97.41135
-        outSlope: 97.41135
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 17.44513
-        inSlope: 4.108216
-        outSlope: 4.108216
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: -101.6
+      - time: 1.2333333
+        value: -6.1035156E-05
         inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel8
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: -6.103516E-05
-        inSlope: -41.39981
         outSlope: -41.39981
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
+        tangentMode: 1
+      - time: 1.5666667
         value: -13.8
-        inSlope: -27.54201
-        outSlope: -27.54201
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
+        inSlope: -27.542019
+        outSlope: -27.542011
+        tangentMode: 1
+      - time: 2.5166667
         value: -26.8
-        inSlope: 0
+        inSlope: -13.684202
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.x
     path: SmallCoinImagePanel9
     classID: 224
@@ -805,27 +889,23 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 9.155273E-05
-        inSlope: 146.2445
+      - time: 1.2333333
+        value: 9.1552734E-05
+        inSlope: 0
         outSlope: 146.2445
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
-        value: 24.7278
-        inSlope: -13.16283
-        outSlope: -13.16283
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
+        tangentMode: 1
+      - time: 1.5666667
+        value: 24.727802
+        inSlope: -21.802708
+        outSlope: -13.1628275
+        tangentMode: 1
+      - time: 2.5166667
         value: -102.3
-        inSlope: 0
+        inSlope: -346.69873
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.y
     path: SmallCoinImagePanel9
     classID: 224
@@ -833,1742 +913,1144 @@ AnimationClip:
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -6.103516E-05
+      - time: 1.2333333
+        value: 0
         inSlope: 0
+        outSlope: 6.0000014
+        tangentMode: 1
+      - time: 1.4
+        value: 1
+        inSlope: 3.0000012
+        outSlope: 3.0000007
+        tangentMode: 1
+      - time: 2.0666666
+        value: 1
+        inSlope: -1.1111101
+        outSlope: -1.111111
+        tangentMode: 1
+      - time: 2.5166667
+        value: 0
+        inSlope: -2.222222
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 8.9
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: 20.1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
+    attribute: m_Color.a
+    path: SmallCoinImagePanel1/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.2333333
+        value: 0
+        inSlope: 0
+        outSlope: 6.0000014
+        tangentMode: 1
+      - time: 1.4
+        value: 1
+        inSlope: 3.0000012
+        outSlope: 3.0000007
+        tangentMode: 1
+      - time: 2.0666666
+        value: 1
+        inSlope: -1.1111101
+        outSlope: -1.111111
+        tangentMode: 1
+      - time: 2.5166667
+        value: 0
+        inSlope: -2.222222
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_Color.a
+    path: SmallCoinImagePanel9/SmallCoinImage
+    classID: 114
+    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 1.3833333
+        value: -6.1035156E-05
+        inSlope: 0
+        outSlope: 29.10018
+        tangentMode: 1
+      - time: 1.7166667
+        value: 9.7
+        inSlope: 19.655342
+        outSlope: 19.655354
+        tangentMode: 1
+      - time: 2.6666667
+        value: 19.4
+        inSlope: 10.210513
+        outSlope: 0
+        tangentMode: 1
+      m_PreInfinity: 2
+      m_PostInfinity: 2
     attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel10
+    path: SmallCoinImagePanel8
     classID: 224
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 10.63008
-        inSlope: 148.4937
-        outSlope: 148.4937
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 36.48941
+      - time: 1.3833333
+        value: 9.1552734E-05
         inSlope: 0
+        outSlope: 97.41135
+        tangentMode: 1
+      - time: 1.7166667
+        value: 17.44513
+        inSlope: -4.743595
+        outSlope: 4.1082163
+        tangentMode: 1
+      - time: 2.6666667
+        value: -101.6
+        inSlope: -282.54166
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: -90.67001
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel10
+    path: SmallCoinImagePanel8
     classID: 224
     script: {fileID: 0}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
+      - time: 1.3833333
         value: 0
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
+        inSlope: 0
+        outSlope: 6.0000014
+        tangentMode: 1
+      - time: 1.55
         value: 1
-        inSlope: 3.000001
-        outSlope: 3.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.066667
+        inSlope: 3.0000012
+        outSlope: 3.0000007
+        tangentMode: 1
+      - time: 2.2166667
         value: 1
         inSlope: -1.111111
         outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
+        tangentMode: 1
+      - time: 2.6666667
         value: 0
-        inSlope: 0
+        inSlope: -2.222222
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.a
-    path: 1319733932
+    path: SmallCoinImagePanel8/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
+      - time: 0
         value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
+      - time: 2.6666667
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 1734426206
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.4666667
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.133333
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 3372855247
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.4166667
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 888166330
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.65
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.316667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 2593703467
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8833333
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.55
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 3008393945
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.9166667
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 490267464
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 0
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.55
-        value: 1
-        inSlope: 3.000001
-        outSlope: 3.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.216667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 2480047218
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 0
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 1
-        inSlope: 3.000001
-        outSlope: 3.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.066667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 1035605475
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2833333
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.95
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 4095130879
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 1319733932
+    path: SmallCoinImagePanel1/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 1319733932
+    path: SmallCoinImagePanel1/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 1319733932
+    path: SmallCoinImagePanel1/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 1734426206
+    path: SmallCoinImagePanel2/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 1734426206
+    path: SmallCoinImagePanel2/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 1734426206
+    path: SmallCoinImagePanel2/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 3372855247
+    path: SmallCoinImagePanel3/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 3372855247
+    path: SmallCoinImagePanel3/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 3372855247
+    path: SmallCoinImagePanel3/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 888166330
+    path: SmallCoinImagePanel4/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 888166330
+    path: SmallCoinImagePanel4/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 888166330
+    path: SmallCoinImagePanel4/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 2593703467
+    path: SmallCoinImagePanel5/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 2593703467
+    path: SmallCoinImagePanel5/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 2593703467
+    path: SmallCoinImagePanel5/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 3008393945
+    path: SmallCoinImagePanel6/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 3008393945
+    path: SmallCoinImagePanel6/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 3008393945
+    path: SmallCoinImagePanel6/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 490267464
+    path: SmallCoinImagePanel7/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 490267464
+    path: SmallCoinImagePanel7/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 490267464
+    path: SmallCoinImagePanel7/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 2480047218
+    path: SmallCoinImagePanel8/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 2480047218
+    path: SmallCoinImagePanel8/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 2480047218
+    path: SmallCoinImagePanel8/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 1035605475
+    path: SmallCoinImagePanel9/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 1035605475
+    path: SmallCoinImagePanel9/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 1035605475
+    path: SmallCoinImagePanel9/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.r
-    path: 4095130879
+    path: SmallCoinImagePanel10/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.g
-    path: 4095130879
+    path: SmallCoinImagePanel10/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   - curve:
       serializedVersion: 2
       m_Curve:
-      - serializedVersion: 2
-        time: 0
+      - time: 0
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
+        tangentMode: 1
+      - time: 2.6666667
         value: 1
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 1
       m_PreInfinity: 2
       m_PostInfinity: 2
-      m_RotationOrder: 4
     attribute: m_Color.b
-    path: 4095130879
+    path: SmallCoinImagePanel10/SmallCoinImage
     classID: 114
     script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_PPtrCurves:
+  m_PPtrCurves: []
   m_SampleRate: 60
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
-  m_MuscleClipSize: 8600
-  m_MuscleClip:
-    serializedVersion: 3
-    m_DeltaPose:
-      m_RootX:
-        t: {x: 0, y: 0, z: 0, w: 0}
-        q: {x: 0, y: 0, z: 0, w: 1}
-        s: {x: 1, y: 1, z: 1, w: 1}
-      m_LookAtPosition: {x: 0, y: 0, z: 0, w: 0}
-      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
-      m_GoalArray:
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      - m_X:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-          m_Weight: 
-          m_WeightR: 0
-          m_HintT: 
-          m_HintWeightT: 
-      m_LeftHandPose:
-        m_GrabX:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-        m_DoFArray:
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        m_Override: 0
-        m_CloseOpen: 0
-        m_InOut: 0
-        m_Grab: 0
-      m_RightHandPose:
-        m_GrabX:
-          t: {x: 0, y: 0, z: 0, w: 0}
-          q: {x: 0, y: 0, z: 0, w: 1}
-          s: {x: 1, y: 1, z: 1, w: 1}
-        m_DoFArray:
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        m_Override: 0
-        m_CloseOpen: 0
-        m_InOut: 0
-        m_Grab: 0
-      m_DoFArray:
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-        - 0
-      m_TDoFArray:
-    m_StartX:
-      t: {x: 0, y: 0, z: 0, w: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1, w: 1}
-    m_StopX:
-      t: {x: 0, y: 0, z: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1}
-    m_LeftFootStartX:
-      t: {x: 0, y: 0, z: 0, w: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1, w: 1}
-    m_RightFootStartX:
-      t: {x: 0, y: 0, z: 0, w: 0}
-      q: {x: 0, y: 0, z: 0, w: 1}
-      s: {x: 1, y: 1, z: 1, w: 1}
-    m_AverageSpeed: {x: 0, y: 0, z: 0, w: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - serializedVersion: 2
-      path: 1948483936
+    - path: 1948483936
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3979006170
+    - path: 3979006170
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2586697804
+    - path: 2586697804
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 71923183
+    - path: 71923183
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1934509433
+    - path: 1934509433
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3930526915
+    - path: 3930526915
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2638226517
+    - path: 2638226517
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 234830276
+    - path: 234830276
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2063075666
+    - path: 2063075666
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3105725944
+    - path: 3105725944
       attribute: 3
       script: {fileID: 0}
-      typeID: 4
+      classID: 4
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1948483936
+    - path: 1948483936
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1948483936
+    - path: 1948483936
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3979006170
+    - path: 3979006170
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3979006170
+    - path: 3979006170
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2586697804
+    - path: 2586697804
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2586697804
+    - path: 2586697804
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 71923183
+    - path: 71923183
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 71923183
+    - path: 71923183
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1934509433
+    - path: 1934509433
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1934509433
+    - path: 1934509433
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3930526915
+    - path: 3930526915
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3930526915
+    - path: 3930526915
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2638226517
+    - path: 2638226517
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2638226517
+    - path: 2638226517
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 234830276
+    - path: 234830276
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 234830276
+    - path: 234830276
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2063075666
+    - path: 2063075666
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2063075666
+    - path: 2063075666
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3105725944
+    - path: 3105725944
       attribute: 1460864421
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3105725944
+    - path: 3105725944
       attribute: 538195251
       script: {fileID: 0}
-      typeID: 224
+      classID: 224
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1319733932
+    - path: 1319733932
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1734426206
+    - path: 1734426206
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3372855247
+    - path: 3372855247
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 888166330
+    - path: 888166330
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2593703467
+    - path: 2593703467
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3008393945
+    - path: 3008393945
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 490267464
+    - path: 490267464
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2480047218
+    - path: 2480047218
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1035605475
+    - path: 1035605475
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4095130879
+    - path: 4095130879
       attribute: 304273561
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1319733932
+    - path: 1319733932
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1319733932
+    - path: 1319733932
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1319733932
+    - path: 1319733932
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1734426206
+    - path: 1734426206
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1734426206
+    - path: 1734426206
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1734426206
+    - path: 1734426206
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3372855247
+    - path: 3372855247
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3372855247
+    - path: 3372855247
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3372855247
+    - path: 3372855247
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 888166330
+    - path: 888166330
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 888166330
+    - path: 888166330
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 888166330
+    - path: 888166330
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2593703467
+    - path: 2593703467
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2593703467
+    - path: 2593703467
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2593703467
+    - path: 2593703467
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3008393945
+    - path: 3008393945
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3008393945
+    - path: 3008393945
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 3008393945
+    - path: 3008393945
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 490267464
+    - path: 490267464
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 490267464
+    - path: 490267464
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 490267464
+    - path: 490267464
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2480047218
+    - path: 2480047218
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2480047218
+    - path: 2480047218
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 2480047218
+    - path: 2480047218
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1035605475
+    - path: 1035605475
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1035605475
+    - path: 1035605475
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 1035605475
+    - path: 1035605475
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4095130879
+    - path: 4095130879
       attribute: 2526845255
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4095130879
+    - path: 4095130879
       attribute: 4215373228
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 4095130879
+    - path: 4095130879
       attribute: 2334886179
       script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-      typeID: 114
+      classID: 114
       customType: 0
       isPPtrCurve: 0
-    pptrCurveMapping:
+    pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
-    m_AdditiveReferencePoseClip: {fileID: 0}
-    m_AdditiveReferencePoseTime: 
     m_StartTime: 0
-    m_StopTime: 2.666667
+    m_StopTime: 2.6666667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
-    m_HasAdditiveReferencePose: 
     m_LoopTime: 0
     m_LoopBlend: 0
     m_LoopBlendOrientation: 0
@@ -2579,2588 +2061,6 @@ AnimationClip:
     m_KeepOriginalPositionXZ: 0
     m_HeightFromFeet: 0
     m_Mirror: 0
-    m_HasGenericRootTransform: 0
-    m_HasMotionFloatCurves: 0
-    m_GenerateMotionCurves: 0
-  m_EditorCurves:
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0.2
-        inSlope: 1.5
-        outSlope: 1.5
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: 0.7
-        inSlope: 1.007143
-        outSlope: 1.007143
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.033333
-        value: 1
-        inSlope: -1.106493
-        outSlope: -1.106493
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel1
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0.2
-        inSlope: 1.5
-        outSlope: 1.5
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: 0.7
-        inSlope: 1.007143
-        outSlope: 1.007143
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.033333
-        value: 1
-        inSlope: -1.106493
-        outSlope: -1.106493
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel1
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0.2
-        inSlope: 1.5
-        outSlope: 1.5
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: 0.7
-        inSlope: 1.007143
-        outSlope: 1.007143
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.033333
-        value: 1
-        inSlope: -1.106493
-        outSlope: -1.106493
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel1
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: 0.2
-        inSlope: 2.1
-        outSlope: 2.1
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 0.9
-        inSlope: 1.135714
-        outSlope: 1.135714
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: -1.277922
-        outSlope: -1.277922
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel2
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: 0.2
-        inSlope: 2.1
-        outSlope: 2.1
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 0.9
-        inSlope: 1.135714
-        outSlope: 1.135714
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: -1.277922
-        outSlope: -1.277922
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel2
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: 0.2
-        inSlope: 2.1
-        outSlope: 2.1
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 0.9
-        inSlope: 1.135714
-        outSlope: 1.135714
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: -1.277922
-        outSlope: -1.277922
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel2
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 0.2
-        inSlope: 0.9000001
-        outSlope: 0.9000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: 0.5
-        inSlope: 0.8785715
-        outSlope: 0.8785715
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.216667
-        value: 1
-        inSlope: -0.935065
-        outSlope: -0.935065
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel3
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 0.2
-        inSlope: 0.9000001
-        outSlope: 0.9000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: 0.5
-        inSlope: 0.8785715
-        outSlope: 0.8785715
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.216667
-        value: 1
-        inSlope: -0.935065
-        outSlope: -0.935065
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel3
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 0.2
-        inSlope: 0.9000001
-        outSlope: 0.9000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: 0.5
-        inSlope: 0.8785715
-        outSlope: 0.8785715
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.216667
-        value: 1
-        inSlope: -0.935065
-        outSlope: -0.935065
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel3
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.166667
-        value: 1
-        inSlope: -1.363636
-        outSlope: -1.363636
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel4
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.166667
-        value: 1
-        inSlope: -1.363636
-        outSlope: -1.363636
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel4
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.166667
-        value: 1
-        inSlope: -1.363636
-        outSlope: -1.363636
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel4
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 0.2
-        inSlope: 2.55
-        outSlope: 2.55
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 1.05
-        inSlope: 1.232143
-        outSlope: 1.232143
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 1
-        inSlope: -1.406493
-        outSlope: -1.406493
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel5
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 0.2
-        inSlope: 2.55
-        outSlope: 2.55
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 1.05
-        inSlope: 1.232143
-        outSlope: 1.232143
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 1
-        inSlope: -1.406493
-        outSlope: -1.406493
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel5
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 0.2
-        inSlope: 2.55
-        outSlope: 2.55
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 1.05
-        inSlope: 1.232143
-        outSlope: 1.232143
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 1
-        inSlope: -1.406493
-        outSlope: -1.406493
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel5
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 0.2
-        inSlope: 2.25
-        outSlope: 2.25
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 0.95
-        inSlope: 1.167857
-        outSlope: 1.167857
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.633333
-        value: 1
-        inSlope: -1.320779
-        outSlope: -1.320779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel6
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 0.2
-        inSlope: 2.25
-        outSlope: 2.25
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 0.95
-        inSlope: 1.167857
-        outSlope: 1.167857
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.633333
-        value: 1
-        inSlope: -1.320779
-        outSlope: -1.320779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel6
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 0.2
-        inSlope: 2.25
-        outSlope: 2.25
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 0.95
-        inSlope: 1.167857
-        outSlope: 1.167857
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.633333
-        value: 1
-        inSlope: -1.320779
-        outSlope: -1.320779
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel6
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.666667
-        value: 1
-        inSlope: -1.363636
-        outSlope: -1.363636
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel7
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.666667
-        value: 1
-        inSlope: -1.363636
-        outSlope: -1.363636
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel7
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.666667
-        value: 1
-        inSlope: -1.363636
-        outSlope: -1.363636
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel7
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 0.2
-        inSlope: 2.7
-        outSlope: 2.7
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 1.1
-        inSlope: 1.264286
-        outSlope: 1.264286
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.3
-        value: 1
-        inSlope: -1.44935
-        outSlope: -1.44935
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel8
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 0.2
-        inSlope: 2.7
-        outSlope: 2.7
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 1.1
-        inSlope: 1.264286
-        outSlope: 1.264286
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.3
-        value: 1
-        inSlope: -1.44935
-        outSlope: -1.44935
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel8
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 0.2
-        inSlope: 2.7
-        outSlope: 2.7
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 1.1
-        inSlope: 1.264286
-        outSlope: 1.264286
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.3
-        value: 1
-        inSlope: -1.44935
-        outSlope: -1.44935
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel8
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 0.2
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
-        value: 0.6
-        inSlope: 0.942857
-        outSlope: 0.942857
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.15
-        value: 1
-        inSlope: -1.02078
-        outSlope: -1.02078
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel9
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 0.2
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
-        value: 0.6
-        inSlope: 0.942857
-        outSlope: 0.942857
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.15
-        value: 1
-        inSlope: -1.02078
-        outSlope: -1.02078
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel9
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 0.2
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
-        value: 0.6
-        inSlope: 0.942857
-        outSlope: 0.942857
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.15
-        value: 1
-        inSlope: -1.02078
-        outSlope: -1.02078
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel9
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.9166667
-        value: 1
-        inSlope: -1.363637
-        outSlope: -1.363637
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.x
-    path: SmallCoinImagePanel10
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.9166667
-        value: 1
-        inSlope: -1.363637
-        outSlope: -1.363637
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.y
-    path: SmallCoinImagePanel10
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 0.2
-        inSlope: 2.4
-        outSlope: 2.4
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 1
-        inSlope: 1.2
-        outSlope: 1.2
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.9166667
-        value: 1
-        inSlope: -1.363637
-        outSlope: -1.363637
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalScale.z
-    path: SmallCoinImagePanel10
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: -7.8
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: -13.9
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel1
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0
-        inSlope: 107.708
-        outSlope: 107.708
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.45
-        value: 22.0084
-        inSlope: 5.989402
-        outSlope: 5.989402
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: -100.4
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel1
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: -6.103516E-05
-        inSlope: 23.10018
-        outSlope: 23.10018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 7.7
-        inSlope: 16.49746
-        outSlope: 16.49746
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 17.1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel2
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: -4.436277
-        inSlope: 128.7849
-        outSlope: 128.7849
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5
-        value: 13.94485
-        inSlope: -13.39217
-        outSlope: -13.39217
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: -101.2
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel2
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: -6.103516E-05
-        inSlope: -9.599817
-        outSlope: -9.599817
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: -3.2
-        inSlope: -10.06307
-        outSlope: -10.06307
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: -13.2
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel3
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 9.155273E-05
-        inSlope: 167.5626
-        outSlope: 167.5626
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.6333333
-        value: 29.84971
-        inSlope: 1.642673
-        outSlope: 1.642673
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: -100
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel3
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: -6.103516E-05
-        inSlope: 8.700184
-        outSlope: 8.700184
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 2.9
-        inSlope: 7.507987
-        outSlope: 7.507987
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: 8.9
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel4
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 9.155273E-05
-        inSlope: 177.3332
-        outSlope: 177.3332
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.5833333
-        value: 26.28765
-        inSlope: -2.566206
-        outSlope: -2.566206
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: -101.4
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel4
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: -6.103516E-05
-        inSlope: 66.30018
-        outSlope: 66.30018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 22.1
-        inSlope: 37.93956
-        outSlope: 37.93956
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 31.2
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel5
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 9.155273E-05
-        inSlope: 99.08634
-        outSlope: 99.08634
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8166667
-        value: 17.72971
-        inSlope: -6.337518
-        outSlope: -6.337518
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: -101.2
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel5
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: -6.103516E-05
-        inSlope: 12.00018
-        outSlope: 12.00018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 4
-        inSlope: 11.00009
-        outSlope: 11.00009
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 13.5
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel6
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 9.155273E-05
-        inSlope: 94.3755
-        outSlope: 94.3755
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.05
-        value: 19.23694
-        inSlope: -2.305503
-        outSlope: -2.305503
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: -101
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel6
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: -6.103516E-05
-        inSlope: -23.99981
-        outSlope: -23.99981
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: -8
-        inSlope: -16.42096
-        outSlope: -16.42096
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: -16.4
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel7
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 9.155273E-05
-        inSlope: 104.6218
-        outSlope: 104.6218
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 21.96792
-        inSlope: -6.89402
-        outSlope: -6.89402
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: -101
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel7
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: -6.103516E-05
-        inSlope: 29.10018
-        outSlope: 29.10018
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 9.7
-        inSlope: 19.65535
-        outSlope: 19.65535
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 19.4
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel8
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 9.155273E-05
-        inSlope: 97.41135
-        outSlope: 97.41135
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.716667
-        value: 17.44513
-        inSlope: 4.108216
-        outSlope: 4.108216
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: -101.6
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel8
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: -6.103516E-05
-        inSlope: -41.39981
-        outSlope: -41.39981
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
-        value: -13.8
-        inSlope: -27.54201
-        outSlope: -27.54201
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: -26.8
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel9
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 9.155273E-05
-        inSlope: 146.2445
-        outSlope: 146.2445
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.566667
-        value: 24.7278
-        inSlope: -13.16283
-        outSlope: -13.16283
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: -102.3
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel9
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: -6.103516E-05
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 8.9
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: 20.1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.x
-    path: SmallCoinImagePanel10
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 10.63008
-        inSlope: 148.4937
-        outSlope: 148.4937
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 36.48941
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.283333
-        value: -90.67001
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_AnchoredPosition.y
-    path: SmallCoinImagePanel10
-    classID: 224
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 0
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 1
-        inSlope: 3.000001
-        outSlope: 3.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.066667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 1319733932
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1666667
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.3333333
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.45
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 1734426206
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.3
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.4666667
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.133333
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 3372855247
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.25
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.4166667
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.083333
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.533333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 888166330
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.4833333
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.65
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.316667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.766667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 2593703467
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.7166666
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.8833333
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.55
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 3008393945
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.75
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.9166667
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.583333
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.033333
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 490267464
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.383333
-        value: 0
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.55
-        value: 1
-        inSlope: 3.000001
-        outSlope: 3.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.216667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 2480047218
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 1.233333
-        value: 0
-        inSlope: 6.000001
-        outSlope: 6.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 1
-        inSlope: 3.000001
-        outSlope: 3.000001
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.066667
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.516667
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 1035605475
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0.1166667
-        value: 0
-        inSlope: 6
-        outSlope: 6
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.2833333
-        value: 1
-        inSlope: 3
-        outSlope: 3
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 0.95
-        value: 1
-        inSlope: -1.111111
-        outSlope: -1.111111
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 1.4
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.a
-    path: 4095130879
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 1319733932
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 1319733932
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 1319733932
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 1734426206
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 1734426206
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 1734426206
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 3372855247
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 3372855247
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 3372855247
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 888166330
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 888166330
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 888166330
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 2593703467
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 2593703467
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 2593703467
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 3008393945
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 3008393945
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 3008393945
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 490267464
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 490267464
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 490267464
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 2480047218
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 2480047218
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 2480047218
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 1035605475
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 1035605475
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 1035605475
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.r
-    path: 4095130879
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.g
-    path: 4095130879
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 2
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      - serializedVersion: 2
-        time: 2.666667
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_Color.b
-    path: 4095130879
-    classID: 114
-    script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Events:
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []
